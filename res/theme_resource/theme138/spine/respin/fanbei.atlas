@@ -1,0 +1,111 @@
+
+fanbei.png
+size: 1242,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/fanbei/fanbei_00
+  rotate: false
+  xy: 704, 2
+  size: 156, 117
+  orig: 194, 148
+  offset: 21, 15
+  index: -1
+ef/fanbei/fanbei_01
+  rotate: false
+  xy: 1040, 27
+  size: 184, 148
+  orig: 194, 148
+  offset: 10, 0
+  index: -1
+ef/fanbei/fanbei_02
+  rotate: false
+  xy: 589, 121
+  size: 189, 147
+  orig: 194, 148
+  offset: 5, 0
+  index: -1
+ef/fanbei/fanbei_03
+  rotate: false
+  xy: 394, 120
+  size: 193, 148
+  orig: 194, 148
+  offset: 1, 0
+  index: -1
+ef/fanbei/fanbei_04
+  rotate: false
+  xy: 2, 120
+  size: 194, 148
+  orig: 194, 148
+  offset: 0, 0
+  index: -1
+ef/fanbei/fanbei_05
+  rotate: false
+  xy: 198, 120
+  size: 194, 148
+  orig: 194, 148
+  offset: 0, 0
+  index: -1
+ef/fanbei/fanbei_06
+  rotate: false
+  xy: 780, 127
+  size: 185, 141
+  orig: 194, 148
+  offset: 7, 4
+  index: -1
+ef/fanbei/fanbei_07
+  rotate: false
+  xy: 862, 3
+  size: 176, 122
+  orig: 194, 148
+  offset: 10, 13
+  index: -1
+ef/fanbei/fanbei_08
+  rotate: false
+  xy: 2, 11
+  size: 133, 107
+  orig: 194, 148
+  offset: 38, 19
+  index: -1
+ef/fanbei/fanbei_09
+  rotate: false
+  xy: 137, 18
+  size: 135, 100
+  orig: 194, 148
+  offset: 37, 21
+  index: -1
+ef/fanbei/fanbei_10
+  rotate: false
+  xy: 274, 21
+  size: 139, 97
+  orig: 194, 148
+  offset: 36, 23
+  index: -1
+ef/fanbei/fanbei_11
+  rotate: false
+  xy: 560, 26
+  size: 142, 92
+  orig: 194, 148
+  offset: 36, 25
+  index: -1
+ef/fanbei/fanbei_12
+  rotate: false
+  xy: 415, 26
+  size: 143, 92
+  orig: 194, 148
+  offset: 36, 25
+  index: -1
+ef/fanbei/fanbei_13
+  rotate: false
+  xy: 1105, 180
+  size: 135, 88
+  orig: 194, 148
+  offset: 40, 29
+  index: -1
+ef/fanbei/fanbei_14
+  rotate: false
+  xy: 967, 177
+  size: 136, 91
+  orig: 194, 148
+  offset: 41, 27
+  index: -1

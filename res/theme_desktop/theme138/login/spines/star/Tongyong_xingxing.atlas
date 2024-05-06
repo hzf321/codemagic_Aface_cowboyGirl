@@ -1,0 +1,13 @@
+
+Tongyong_xingxing.png
+size: 70,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ic/img_x
+  rotate: false
+  xy: 2, 2
+  size: 66, 68
+  orig: 128, 128
+  offset: 30, 30
+  index: -1

@@ -1,0 +1,55 @@
+
+qieping01.png
+size: 1798,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ciguang01
+  rotate: false
+  xy: 0, 0
+  size: 548, 511
+  orig: 548, 511
+  offset: 0, 0
+  index: -1
+gaoliang01
+  rotate: true
+  xy: 1370, 271
+  size: 240, 242
+  orig: 240, 242
+  offset: 0, 0
+  index: -1
+gaoliang02
+  rotate: false
+  xy: 1370, 40
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+images/bian01
+  rotate: false
+  xy: 550, 63
+  size: 448, 448
+  orig: 448, 448
+  offset: 0, 0
+  index: -1
+images/xingxing
+  rotate: false
+  xy: 1000, 93
+  size: 368, 418
+  orig: 370, 419
+  offset: 1, 0
+  index: -1
+images/zhongxin
+  rotate: false
+  xy: 1614, 327
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+qp_beijng
+  rotate: true
+  xy: 1601, 28
+  size: 241, 190
+  orig: 241, 190
+  offset: 0, 0
+  index: -1

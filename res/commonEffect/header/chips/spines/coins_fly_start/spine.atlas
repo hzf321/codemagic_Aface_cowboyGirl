@@ -1,0 +1,139 @@
+
+spine.png
+size: 945,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liheshanguang01
+  rotate: true
+  xy: 658, 2
+  size: 130, 134
+  orig: 130, 134
+  offset: 0, 0
+  index: -1
+liheshanguang02
+  rotate: false
+  xy: 822, 157
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_0
+  rotate: false
+  xy: 2, 257
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_15
+  rotate: false
+  xy: 2, 257
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_1
+  rotate: false
+  xy: 2, 134
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_10
+  rotate: false
+  xy: 494, 134
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_11
+  rotate: false
+  xy: 658, 257
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_12
+  rotate: false
+  xy: 494, 11
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_13
+  rotate: false
+  xy: 658, 134
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_14
+  rotate: true
+  xy: 822, 216
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_2
+  rotate: false
+  xy: 166, 257
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_3
+  rotate: false
+  xy: 2, 11
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_4
+  rotate: false
+  xy: 166, 134
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_5
+  rotate: false
+  xy: 330, 257
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_6
+  rotate: false
+  xy: 166, 11
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_7
+  rotate: false
+  xy: 330, 134
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_8
+  rotate: false
+  xy: 494, 257
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_9
+  rotate: false
+  xy: 330, 11
+  size: 162, 121
+  orig: 162, 121
+  offset: 0, 0
+  index: -1
+zhaunguang02
+  rotate: false
+  xy: 794, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

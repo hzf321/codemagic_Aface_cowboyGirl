@@ -1,0 +1,20 @@
+
+m2.png
+size: 213,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frenzystamp_frame03
+  rotate: false
+  xy: 159, 0
+  size: 54, 190
+  orig: 54, 190
+  offset: 0, 0
+  index: -1
+niutou
+  rotate: false
+  xy: 0, 35
+  size: 157, 155
+  orig: 157, 155
+  offset: 0, 0
+  index: -1

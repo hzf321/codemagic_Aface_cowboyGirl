@@ -1,0 +1,62 @@
+
+xiao_win_02.png
+size: 683,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang01
+  rotate: false
+  xy: 104, 235
+  size: 490, 168
+  orig: 490, 168
+  offset: 0, 0
+  index: -1
+gl01
+  rotate: false
+  xy: 442, 6
+  size: 182, 100
+  orig: 182, 100
+  offset: 0, 0
+  index: -1
+gl02
+  rotate: true
+  xy: 104, 2
+  size: 230, 118
+  orig: 230, 118
+  offset: 0, 0
+  index: -1
+kgl
+  rotate: true
+  xy: 2, 35
+  size: 368, 100
+  orig: 368, 100
+  offset: 0, 0
+  index: -1
+nice_win_img01
+  rotate: false
+  xy: 224, 108
+  size: 437, 124
+  orig: 437, 124
+  offset: 0, 0
+  index: -1
+nice_win_img02
+  rotate: false
+  xy: 224, 4
+  size: 216, 102
+  orig: 216, 102
+  offset: 0, 0
+  index: -1
+nice_win_img03
+  rotate: true
+  xy: 596, 234
+  size: 169, 84
+  orig: 169, 84
+  offset: 0, 0
+  index: -1
+nice_win_img04
+  rotate: false
+  xy: 2, 405
+  size: 679, 140
+  orig: 679, 140
+  offset: 0, 0
+  index: -1

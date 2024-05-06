@@ -1,0 +1,22 @@
+--[[
+    消息组件，用来动态添加消息监听
+]]
+local RecvMessage = class("RecvMessage")
+
+function RecvMessage:ctor( obj, cmds )
+	for cmd, callback in pairs(cmds) do
+		SystemController:getInstance():listenCmd(obj.__cname, cmd, obj, callback)
+	end
+	self._obj = obj
+	self._cmds = cmds
+end
+
+-- 消息保存再次处理用的，一般不需要用到
+function RecvMessage:recvMessage( cmd, message )
+	local callback = self._cmds[cmd]
+	if callback then
+		callback(self._obj, message)
+	end
+end
+
+return RecvMessage

@@ -1,0 +1,216 @@
+
+shuzibeijing.png
+size: 1550,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/shuzibeijing/shuzibeijing_00
+  rotate: false
+  xy: 1447, 6
+  size: 100, 78
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_01
+  rotate: false
+  xy: 1344, 5
+  size: 101, 78
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_02
+  rotate: false
+  xy: 1447, 86
+  size: 101, 78
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_03
+  rotate: false
+  xy: 314, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_04
+  rotate: false
+  xy: 313, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_05
+  rotate: false
+  xy: 417, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_06
+  rotate: false
+  xy: 416, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_07
+  rotate: false
+  xy: 520, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_08
+  rotate: false
+  xy: 1240, 4
+  size: 102, 78
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_09
+  rotate: false
+  xy: 519, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_10
+  rotate: false
+  xy: 623, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_11
+  rotate: false
+  xy: 622, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_12
+  rotate: false
+  xy: 726, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_13
+  rotate: false
+  xy: 2, 84
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_14
+  rotate: false
+  xy: 2, 2
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_15
+  rotate: false
+  xy: 725, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_16
+  rotate: false
+  xy: 829, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_17
+  rotate: false
+  xy: 106, 84
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_18
+  rotate: false
+  xy: 828, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_19
+  rotate: false
+  xy: 932, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_20
+  rotate: false
+  xy: 931, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_21
+  rotate: false
+  xy: 1035, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_22
+  rotate: false
+  xy: 106, 2
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_23
+  rotate: false
+  xy: 1034, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_24
+  rotate: false
+  xy: 1138, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_25
+  rotate: false
+  xy: 1137, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_26
+  rotate: false
+  xy: 210, 84
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_27
+  rotate: false
+  xy: 1241, 84
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_28
+  rotate: false
+  xy: 1344, 85
+  size: 101, 79
+  orig: 102, 80
+  offset: 1, 0
+  index: -1
+ef/shuzibeijing/shuzibeijing_29
+  rotate: false
+  xy: 210, 2
+  size: 101, 80
+  orig: 102, 80
+  offset: 1, 0
+  index: -1

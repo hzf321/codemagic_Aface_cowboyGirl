@@ -1,0 +1,41 @@
+
+spin_anniu_01.png
+size: 339,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang01
+  rotate: false
+  xy: 2, 58
+  size: 122, 38
+  orig: 122, 38
+  offset: 0, 0
+  index: -1
+guangdian01
+  rotate: false
+  xy: 268, 10
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+guanghuan01
+  rotate: false
+  xy: 2, 98
+  size: 230, 237
+  orig: 230, 237
+  offset: 0, 0
+  index: -1
+l01
+  rotate: true
+  xy: 234, 65
+  size: 270, 103
+  orig: 270, 103
+  offset: 0, 0
+  index: -1
+liuxing01
+  rotate: false
+  xy: 2, 37
+  size: 264, 19
+  orig: 264, 19
+  offset: 0, 0
+  index: -1

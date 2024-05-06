@@ -1,0 +1,132 @@
+
+jiesuo.png
+size: 1329,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao/lizi_0
+  rotate: false
+  xy: 677, 20
+  size: 92, 53
+  orig: 144, 89
+  offset: 27, 10
+  index: -1
+bao/lizi_1
+  rotate: false
+  xy: 1206, 14
+  size: 93, 38
+  orig: 144, 89
+  offset: 27, 28
+  index: -1
+bao/lizi_10
+  rotate: false
+  xy: 0, 63
+  size: 138, 86
+  orig: 144, 89
+  offset: 6, 0
+  index: -1
+bao/lizi_11
+  rotate: false
+  xy: 276, 69
+  size: 131, 80
+  orig: 144, 89
+  offset: 4, 4
+  index: -1
+bao/lizi_12
+  rotate: false
+  xy: 1085, 24
+  size: 119, 75
+  orig: 144, 89
+  offset: 3, 8
+  index: -1
+bao/lizi_13
+  rotate: false
+  xy: 874, 22
+  size: 78, 77
+  orig: 144, 89
+  offset: 27, 6
+  index: -1
+bao/lizi_14
+  rotate: false
+  xy: 389, 6
+  size: 51, 61
+  orig: 144, 89
+  offset: 43, 18
+  index: -1
+bao/lizi_2
+  rotate: false
+  xy: 1206, 54
+  size: 96, 45
+  orig: 144, 89
+  offset: 27, 24
+  index: -1
+bao/lizi_3
+  rotate: false
+  xy: 771, 22
+  size: 101, 51
+  orig: 144, 89
+  offset: 25, 21
+  index: -1
+bao/lizi_4
+  rotate: false
+  xy: 568, 16
+  size: 107, 57
+  orig: 144, 89
+  offset: 22, 18
+  index: -1
+bao/lizi_5
+  rotate: false
+  xy: 274, 5
+  size: 113, 61
+  orig: 144, 89
+  offset: 19, 15
+  index: -1
+bao/lizi_6
+  rotate: false
+  xy: 154, 1
+  size: 118, 65
+  orig: 144, 89
+  offset: 16, 12
+  index: -1
+bao/lizi_7
+  rotate: false
+  xy: 442, 3
+  size: 124, 70
+  orig: 144, 89
+  offset: 13, 9
+  index: -1
+bao/lizi_8
+  rotate: false
+  xy: 954, 23
+  size: 129, 76
+  orig: 144, 89
+  offset: 11, 6
+  index: -1
+bao/lizi_9
+  rotate: false
+  xy: 140, 68
+  size: 134, 81
+  orig: 144, 89
+  offset: 8, 3
+  index: -1
+theme138_base_jackpotbg_1
+  rotate: false
+  xy: 442, 101
+  size: 887, 48
+  orig: 887, 48
+  offset: 0, 0
+  index: -1
+theme138_base_jackpotbg_2
+  rotate: false
+  xy: 0, 0
+  size: 152, 61
+  orig: 155, 61
+  offset: 0, 0
+  index: -1
+theme138_base_jackpotbg_3
+  rotate: false
+  xy: 409, 75
+  size: 376, 24
+  orig: 376, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,328 @@
+
+winzi.png
+size: 696,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/winzi/winzi_00
+  rotate: false
+  xy: 410, 182
+  size: 44, 69
+  orig: 128, 98
+  offset: 0, 17
+  index: -1
+ef/winzi/winzi_01
+  rotate: false
+  xy: 257, 180
+  size: 48, 71
+  orig: 128, 98
+  offset: 0, 17
+  index: -1
+ef/winzi/winzi_02
+  rotate: false
+  xy: 307, 175
+  size: 52, 76
+  orig: 128, 98
+  offset: 0, 13
+  index: -1
+ef/winzi/winzi_03
+  rotate: false
+  xy: 496, 85
+  size: 56, 78
+  orig: 128, 98
+  offset: 0, 12
+  index: -1
+ef/winzi/winzi_04
+  rotate: false
+  xy: 526, 4
+  size: 60, 79
+  orig: 128, 98
+  offset: 0, 11
+  index: -1
+ef/winzi/winzi_05
+  rotate: false
+  xy: 554, 85
+  size: 63, 81
+  orig: 128, 98
+  offset: 0, 11
+  index: -1
+ef/winzi/winzi_06
+  rotate: false
+  xy: 320, 1
+  size: 67, 83
+  orig: 128, 98
+  offset: 0, 11
+  index: -1
+ef/winzi/winzi_07
+  rotate: false
+  xy: 389, 0
+  size: 70, 85
+  orig: 128, 98
+  offset: 0, 11
+  index: -1
+ef/winzi/winzi_08
+  rotate: false
+  xy: 376, 87
+  size: 73, 86
+  orig: 128, 98
+  offset: 0, 11
+  index: -1
+ef/winzi/winzi_09
+  rotate: false
+  xy: 349, 253
+  size: 77, 89
+  orig: 128, 98
+  offset: 0, 9
+  index: -1
+ef/winzi/winzi_10
+  rotate: false
+  xy: 428, 253
+  size: 80, 90
+  orig: 128, 98
+  offset: 0, 8
+  index: -1
+ef/winzi/winzi_11
+  rotate: false
+  xy: 545, 346
+  size: 83, 90
+  orig: 128, 98
+  offset: 0, 8
+  index: -1
+ef/winzi/winzi_12
+  rotate: false
+  xy: 510, 253
+  size: 85, 91
+  orig: 128, 98
+  offset: 1, 7
+  index: -1
+ef/winzi/winzi_13
+  rotate: false
+  xy: 548, 439
+  size: 88, 91
+  orig: 128, 98
+  offset: 1, 7
+  index: -1
+ef/winzi/winzi_14
+  rotate: false
+  xy: 597, 253
+  size: 87, 91
+  orig: 128, 98
+  offset: 4, 7
+  index: -1
+ef/winzi/winzi_15
+  rotate: false
+  xy: 196, 86
+  size: 87, 92
+  orig: 128, 98
+  offset: 7, 6
+  index: -1
+ef/winzi/winzi_16
+  rotate: false
+  xy: 456, 438
+  size: 90, 92
+  orig: 128, 98
+  offset: 8, 6
+  index: -1
+ef/winzi/winzi_17
+  rotate: false
+  xy: 100, 86
+  size: 94, 92
+  orig: 128, 98
+  offset: 8, 6
+  index: -1
+ef/winzi/winzi_18
+  rotate: false
+  xy: 358, 438
+  size: 96, 92
+  orig: 128, 98
+  offset: 9, 6
+  index: -1
+ef/winzi/winzi_19
+  rotate: false
+  xy: 258, 438
+  size: 98, 92
+  orig: 128, 98
+  offset: 11, 6
+  index: -1
+ef/winzi/winzi_20
+  rotate: false
+  xy: 0, 86
+  size: 98, 92
+  orig: 128, 98
+  offset: 15, 6
+  index: -1
+ef/winzi/winzi_21
+  rotate: false
+  xy: 0, 180
+  size: 99, 92
+  orig: 128, 98
+  offset: 18, 6
+  index: -1
+ef/winzi/winzi_22
+  rotate: false
+  xy: 101, 180
+  size: 98, 92
+  orig: 128, 98
+  offset: 22, 6
+  index: -1
+ef/winzi/winzi_23
+  rotate: false
+  xy: 258, 344
+  size: 97, 92
+  orig: 128, 98
+  offset: 26, 6
+  index: -1
+ef/winzi/winzi_24
+  rotate: false
+  xy: 357, 345
+  size: 94, 91
+  orig: 128, 98
+  offset: 29, 6
+  index: -1
+ef/winzi/winzi_25
+  rotate: false
+  xy: 453, 346
+  size: 90, 90
+  orig: 128, 98
+  offset: 33, 6
+  index: -1
+ef/winzi/winzi_26
+  rotate: false
+  xy: 258, 253
+  size: 89, 89
+  orig: 128, 98
+  offset: 36, 6
+  index: -1
+ef/winzi/winzi_27
+  rotate: false
+  xy: 285, 86
+  size: 89, 87
+  orig: 128, 98
+  offset: 39, 6
+  index: -1
+ef/winzi/winzi_28
+  rotate: false
+  xy: 456, 165
+  size: 86, 86
+  orig: 128, 98
+  offset: 42, 6
+  index: -1
+ef/winzi/winzi_29
+  rotate: false
+  xy: 0, 0
+  size: 82, 84
+  orig: 128, 98
+  offset: 46, 6
+  index: -1
+ef/winzi/winzi_30
+  rotate: false
+  xy: 84, 0
+  size: 80, 84
+  orig: 128, 98
+  offset: 48, 6
+  index: -1
+ef/winzi/winzi_31
+  rotate: false
+  xy: 166, 0
+  size: 77, 84
+  orig: 128, 98
+  offset: 51, 6
+  index: -1
+ef/winzi/winzi_32
+  rotate: false
+  xy: 245, 0
+  size: 73, 84
+  orig: 128, 98
+  offset: 55, 6
+  index: -1
+ef/winzi/winzi_33
+  rotate: false
+  xy: 544, 168
+  size: 70, 83
+  orig: 128, 98
+  offset: 58, 7
+  index: -1
+ef/winzi/winzi_34
+  rotate: false
+  xy: 616, 168
+  size: 66, 83
+  orig: 128, 98
+  offset: 62, 7
+  index: -1
+ef/winzi/winzi_35
+  rotate: false
+  xy: 461, 0
+  size: 63, 83
+  orig: 128, 98
+  offset: 65, 7
+  index: -1
+ef/winzi/winzi_36
+  rotate: false
+  xy: 638, 448
+  size: 58, 82
+  orig: 128, 98
+  offset: 70, 8
+  index: -1
+ef/winzi/winzi_37
+  rotate: false
+  xy: 201, 191
+  size: 54, 81
+  orig: 128, 98
+  offset: 74, 9
+  index: -1
+ef/winzi/winzi_38
+  rotate: false
+  xy: 619, 87
+  size: 51, 79
+  orig: 128, 98
+  offset: 77, 10
+  index: -1
+ef/winzi/winzi_39
+  rotate: false
+  xy: 361, 175
+  size: 47, 76
+  orig: 128, 98
+  offset: 81, 12
+  index: -1
+ef/winzi/winzi_40
+  rotate: false
+  xy: 451, 93
+  size: 43, 70
+  orig: 128, 98
+  offset: 85, 14
+  index: -1
+ef/winzi/winzi_41
+  rotate: false
+  xy: 588, 20
+  size: 34, 63
+  orig: 128, 98
+  offset: 90, 18
+  index: -1
+ef/winzi/winzi_42
+  rotate: false
+  xy: 624, 28
+  size: 29, 57
+  orig: 128, 98
+  offset: 95, 24
+  index: -1
+ef/winzi/winzi_43
+  rotate: false
+  xy: 655, 37
+  size: 23, 48
+  orig: 128, 98
+  offset: 100, 33
+  index: -1
+ef/winzi/winzi_44
+  rotate: false
+  xy: 672, 141
+  size: 12, 25
+  orig: 128, 98
+  offset: 111, 56
+  index: -1
+guangdian_06
+  rotate: false
+  xy: 0, 274
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

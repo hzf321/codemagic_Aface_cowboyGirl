@@ -1,0 +1,20 @@
+
+xiao_win_01.png
+size: 461,461
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 195, 345
+  size: 148, 114
+  orig: 148, 114
+  offset: 0, 0
+  index: -1
+yepian01
+  rotate: false
+  xy: 2, 2
+  size: 191, 457
+  orig: 191, 457
+  offset: 0, 0
+  index: -1

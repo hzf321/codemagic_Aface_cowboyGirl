@@ -1,0 +1,76 @@
+
+mjl_01.png
+size: 1485,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ciguang01
+  rotate: false
+  xy: 0, 20
+  size: 548, 511
+  orig: 548, 511
+  offset: 0, 0
+  index: -1
+images/beijing
+  rotate: false
+  xy: 550, 151
+  size: 481, 380
+  orig: 481, 380
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: false
+  xy: 1074, 0
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+images/ma
+  rotate: true
+  xy: 1033, 30
+  size: 226, 295
+  orig: 226, 295
+  offset: 0, 0
+  index: -1
+images/matui
+  rotate: true
+  xy: 1330, 47
+  size: 106, 44
+  orig: 106, 49
+  offset: 0, 5
+  index: -1
+images/ren
+  rotate: false
+  xy: 1330, 155
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+images/shou
+  rotate: false
+  xy: 1390, 230
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+images/shoubi
+  rotate: true
+  xy: 1001, 0
+  size: 28, 71
+  orig: 29, 71
+  offset: 1, 0
+  index: -1
+images/taiyang
+  rotate: false
+  xy: 1033, 258
+  size: 452, 273
+  orig: 454, 274
+  offset: 1, 0
+  index: -1
+yunduo
+  rotate: false
+  xy: 550, 9
+  size: 449, 140
+  orig: 449, 140
+  offset: 0, 0
+  index: -1
