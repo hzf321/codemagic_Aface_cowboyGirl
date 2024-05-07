@@ -66,7 +66,7 @@ std::string FileFullPath::getRealPath(const std::string &filename, const std::st
         return "";
     }
 
-    if((searchIt.length() > 5 && searchIt.substr(searchIt.length() - 5, 5) == "/res/") ||
+    if((searchIt.length() >= 4 && searchIt.substr(searchIt.length() - 4, 4) == "res/") ||
        (searchIt.length() > 15 && searchIt.substr(searchIt.length() - 15, 15) == "theme_resource/") ||
        (searchIt.length() > 14 && searchIt.substr(searchIt.length() - 14, 14) == "theme_desktop/")) {
         if (_file_map.empty()) {

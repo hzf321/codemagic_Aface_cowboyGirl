@@ -30,6 +30,8 @@
 @interface RootViewController : UIViewController {
 
 }
+@property (nonatomic,assign) UIInterfaceOrientationMask orientationMask;
+@property (nonatomic,assign) UIInterfaceOrientation orientation;
 - (BOOL) prefersStatusBarHidden;
 
 @end

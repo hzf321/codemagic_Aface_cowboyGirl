@@ -29,9 +29,20 @@
 #import "AppDelegate.h"
 #import "RootViewController.h"
 
+#include <sys/socket.h>
+#include <sys/sysctl.h>
+#include <net/if.h>
+#include <net/if_dl.h>
+
+#include <arpa/inet.h>
+#include <net/if.h>
+#include <ifaddrs.h>
+
 @implementation AppController
 
 @synthesize window;
+
+static AppController *s_self;
 
 #pragma mark -
 #pragma mark Application lifecycle
@@ -76,6 +87,10 @@ static AppDelegate s_sharedApplication;
     // IMPORTANT: Setting the GLView should be done after creating the RootViewController
     cocos2d::GLView *glview = cocos2d::GLViewImpl::createWithEAGLView((__bridge void *)_viewController.view);
     cocos2d::Director::getInstance()->setOpenGLView(glview);
+    
+    s_self = self;
+    s_self.orientationMask = UIInterfaceOrientationLandscapeRight;
+    [s_self.class changeRootViewControllerH];
     
     //run the cocos2d-x game scene
     app->run();
@@ -123,6 +138,167 @@ static AppDelegate s_sharedApplication;
      */
 }
 
++(NSString*) getIosId {
+     int                 mgmtInfoBase[6];
+     char                *msgBuffer = NULL;
+     size_t              length;
+     unsigned char       macAddress[6];
+     struct if_msghdr    *interfaceMsgStruct;
+     struct sockaddr_dl  *socketStruct;
+     NSString            *errorFlag = NULL;
+     
+     mgmtInfoBase[0] = CTL_NET;        // Request network subsystem
+     mgmtInfoBase[1] = AF_ROUTE;       // Routing table info
+     mgmtInfoBase[2] = 0;
+     mgmtInfoBase[3] = AF_LINK;        // Request link layer information
+     mgmtInfoBase[4] = NET_RT_IFLIST;  // Request all configured interfaces
+     
+     if ((mgmtInfoBase[5] = if_nametoindex("en0")) == 0)
+         errorFlag = @"if_nametoindex failure";
+     else
+     {
+         if (sysctl(mgmtInfoBase, 6, NULL, &length, NULL, 0) < 0)
+             errorFlag = @"sysctl mgmtInfoBase failure";
+         else
+         {
+             if ((msgBuffer = (char*)malloc(length)) == NULL)
+                 errorFlag = @"buffer allocation failure";
+             else
+             {
+                 if (sysctl(mgmtInfoBase, 6, msgBuffer, &length, NULL, 0) < 0)
+                     errorFlag = @"sysctl msgBuffer failure";
+             }
+         }
+     }
+     
+     if (errorFlag != NULL)
+     {
+         NSLog(@"Error: %@", errorFlag);
+         const char*  error =[errorFlag UTF8String];
+         return [NSString stringWithUTF8String:error];
+     }
+     interfaceMsgStruct = (struct if_msghdr *) msgBuffer;
+     socketStruct = (struct sockaddr_dl *) (interfaceMsgStruct + 1);
+     memcpy(&macAddress, socketStruct->sdl_data + socketStruct->sdl_nlen, 6);
+     NSString *macAddressString = [NSString stringWithFormat:@"%02X:%02X:%02X:%02X:%02X:%02X",
+                                   macAddress[0], macAddress[1], macAddress[2],
+                                   macAddress[3], macAddress[4], macAddress[5]];
+     NSLog(@"Mac Address: %@", macAddressString);
+     free(msgBuffer);
+    
+     const char*  address =[macAddressString UTF8String];
+     return [NSString stringWithUTF8String:address];
+ }
+
++ (NSString *) getAppPackageName {
+    NSString *bundle = [[NSBundle mainBundle] bundleIdentifier];
+    NSLog(@"AppController getAppPackageName:%@", bundle);
+    return bundle;
+}
+
++ (NSString *) getVersionName {
+    NSString *version = [[NSBundle mainBundle] objectForInfoDictionaryKey:@"CFBundleShortVersionString"];
+    NSLog(@"AppController getVersionName:%@", version);
+    return version;
+}
+
++ (NSString *) getOrientation {
+    NSLog(@"AppController getOrientation");
+    return @"";
+}
+
++ (void) changeOrientation:(NSDictionary*) dict {
+    NSString* orientation = [dict objectForKey:@"orientation"];
+    NSLog(@"AppController changeOrientation:%@", orientation);
+    int ori = [orientation intValue];
+    if(ori == 1)
+    {
+        NSLog(@"changeRootViewControllerH");
+        [AppController changeRootViewControllerH];
+    }
+    else
+    {
+        NSLog(@"changeRootViewControllerV");
+        [AppController changeRootViewControllerV];
+    }
+}
+
++ (void)changeRootViewControllerH {
+//    NSLog(@"changeRootViewController Landscape");
+    [[UIDevice currentDevice] setValue:[NSNumber numberWithInteger:UIInterfaceOrientationUnknown] forKey:@"orientation"];
+    
+    s_self->_viewController.orientationMask = UIInterfaceOrientationMaskLandscape;
+    s_self->_viewController.orientation = UIInterfaceOrientationLandscapeRight;
+    s_self.orientationMask = UIInterfaceOrientationMaskLandscape;
+    
+//    [[UIDevice currentDevice] setValue:[NSNumber numberWithInteger:UIInterfaceOrientationLandscapeRight] forKey:@"orientation"];
+    
+    if (@available(iOS 16.0, *)) {
+        void (^errorHandler)(NSError *error) = ^(NSError *error) {
+                NSLog(@"错误:%@", error);
+            };
+        #pragma clang diagnostic push
+        #pragma clang diagnostic ignored "-Warc-performSelector-leaks"
+            SEL supportedInterfaceSelector = NSSelectorFromString(@"setNeedsUpdateOfSupportedInterfaceOrientations");
+            [s_self->_viewController performSelector:supportedInterfaceSelector];
+            NSArray *array = [[UIApplication sharedApplication].connectedScenes allObjects];
+            UIWindowScene *scene = (UIWindowScene *)[array firstObject];
+            Class UIWindowSceneGeometryPreferencesIOS = NSClassFromString(@"UIWindowSceneGeometryPreferencesIOS");
+            if (UIWindowSceneGeometryPreferencesIOS) {
+                SEL initWithInterfaceOrientationsSelector = NSSelectorFromString(@"initWithInterfaceOrientations:");
+                UIInterfaceOrientationMask orientation = UIInterfaceOrientationMaskLandscape;
+                id geometryPreferences = [[UIWindowSceneGeometryPreferencesIOS alloc] performSelector:initWithInterfaceOrientationsSelector withObject:@(orientation)];
+                if (geometryPreferences) {
+                    SEL requestGeometryUpdateWithPreferencesSelector = NSSelectorFromString(@"requestGeometryUpdateWithPreferences:errorHandler:");
+                    if ([scene respondsToSelector:requestGeometryUpdateWithPreferencesSelector]) {
+                        [scene performSelector:requestGeometryUpdateWithPreferencesSelector withObject:geometryPreferences withObject:errorHandler];
+                    }
+                }
+            }
+        #pragma clang diagnostic pop
+    } else {
+        [[UIDevice currentDevice] setValue:[NSNumber numberWithInteger:UIInterfaceOrientationLandscapeRight] forKey:@"orientation"];
+        }
+}
+
++ (void)changeRootViewControllerV {
+//    NSLog(@"changeRootViewController Portrait");
+
+    [[UIDevice currentDevice] setValue:[NSNumber numberWithInteger:UIInterfaceOrientationUnknown] forKey:@"orientation"];
+    
+    s_self->_viewController.orientationMask = UIInterfaceOrientationMaskPortrait;
+    s_self->_viewController.orientation = UIInterfaceOrientationPortrait;
+    s_self.orientationMask = UIInterfaceOrientationMaskAll;
+    
+//    [[UIDevice currentDevice] setValue:[NSNumber numberWithInteger:UIInterfaceOrientationPortrait] forKey:@"orientation"];
+    
+    if (@available(iOS 16.0, *)) {
+        void (^errorHandler)(NSError *error) = ^(NSError *error) {
+                NSLog(@"错误:%@", error);
+            };
+        #pragma clang diagnostic push
+        #pragma clang diagnostic ignored "-Warc-performSelector-leaks"
+            SEL supportedInterfaceSelector = NSSelectorFromString(@"setNeedsUpdateOfSupportedInterfaceOrientations");
+            [s_self->_viewController performSelector:supportedInterfaceSelector];
+            NSArray *array = [[UIApplication sharedApplication].connectedScenes allObjects];
+            UIWindowScene *scene = (UIWindowScene *)[array firstObject];
+            Class UIWindowSceneGeometryPreferencesIOS = NSClassFromString(@"UIWindowSceneGeometryPreferencesIOS");
+            if (UIWindowSceneGeometryPreferencesIOS) {
+                SEL initWithInterfaceOrientationsSelector = NSSelectorFromString(@"initWithInterfaceOrientations:");
+                UIInterfaceOrientationMask orientation = UIInterfaceOrientationMaskPortrait;
+                id geometryPreferences = [[UIWindowSceneGeometryPreferencesIOS alloc] performSelector:initWithInterfaceOrientationsSelector withObject:@(orientation)];
+                if (geometryPreferences) {
+                    SEL requestGeometryUpdateWithPreferencesSelector = NSSelectorFromString(@"requestGeometryUpdateWithPreferences:errorHandler:");
+                    if ([scene respondsToSelector:requestGeometryUpdateWithPreferencesSelector]) {
+                        [scene performSelector:requestGeometryUpdateWithPreferencesSelector withObject:geometryPreferences withObject:errorHandler];
+                    }
+                }
+            }
+        #pragma clang diagnostic pop
+        } else {
+            [[UIDevice currentDevice] setValue:[NSNumber numberWithInteger:UIInterfaceOrientationPortrait] forKey:@"orientation"];
+        }
+}
 
 #pragma mark -
 #pragma mark Memory management

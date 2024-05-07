@@ -29,10 +29,20 @@
 @class RootViewController;
 
 @interface AppController : NSObject <UIApplicationDelegate> {
-
+  
 }
 
 @property(nonatomic, readonly) RootViewController* viewController;
+
+@property (nonatomic,assign) UIInterfaceOrientationMask orientationMask;
+
++ (NSString *) getIosId;
++ (NSString *) getAppPackageName;
++ (NSString *) getVersionName;
++ (NSString *) getOrientation;
++ (void) changeOrientation:(NSDictionary*)dict;
++ (void)changeRootViewControllerH;
++ (void)changeRootViewControllerV;
 
 @end
 
