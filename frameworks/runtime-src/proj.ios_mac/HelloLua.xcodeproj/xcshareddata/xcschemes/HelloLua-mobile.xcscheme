@@ -16,7 +16,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F293B3C715EB7BE500256477"
-               BuildableName = "HelloLua-mobile.app"
+               BuildableName = "Wilderness Expedition.app"
                BlueprintName = "HelloLua-mobile"
                ReferencedContainer = "container:HelloLua.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F293B3C715EB7BE500256477"
-            BuildableName = "HelloLua-mobile.app"
+            BuildableName = "Wilderness Expedition.app"
             BlueprintName = "HelloLua-mobile"
             ReferencedContainer = "container:HelloLua.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F293B3C715EB7BE500256477"
-            BuildableName = "HelloLua-mobile.app"
+            BuildableName = "Wilderness Expedition.app"
             BlueprintName = "HelloLua-mobile"
             ReferencedContainer = "container:HelloLua.xcodeproj">
          </BuildableReference>
