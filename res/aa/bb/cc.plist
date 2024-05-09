@@ -3,926 +3,926 @@
 <plist version="1.0">
 <dict>
 	<key>ad_reward/fonts/coin_num.fnt</key>
-	<string>soum/thgy/dely/ysye/x/symgt/r/uedah/lc/aa2cba34.fnt</string>
+	<string>w/o/p/wksrq/r/msedh/fvfq/lw/aa2cba34.fnt</string>
 	<key>ad_reward/fonts/coin_num.png</key>
-	<string>zlis/kzaiv/eul/s/nkfwz/lowh/560b0945.png</string>
+	<string>ox/uuw/hgq/hovfr/c/mdwrb/560b0945.png</string>
 	<key>ad_reward/fonts/freeLabel.fnt</key>
-	<string>ecd/buw/v/pgk/upf/cuh/7ff98ef9.fnt</string>
+	<string>jmpb/qjk/cycp/rey/nxl/ghgp/rp/kwxa/eklrg/cjvr/7ff98ef9.fnt</string>
 	<key>ad_reward/fonts/freeLabel.png</key>
-	<string>zx/ifhl/wivvj/uy/w/qv/eliie/bq/4d803572.png</string>
+	<string>v/vvs/xm/pqto/uj/ah/ohm/rn/4d803572.png</string>
 	<key>ad_reward/fonts/guide.fnt</key>
-	<string>uv/z/pqy/eym/u/sbucq/gcs/krmh/35ef5ad7.fnt</string>
+	<string>vjiw/wr/chuci/dkuku/qeu/smbeq/sdf/rvh/35ef5ad7.fnt</string>
 	<key>ad_reward/fonts/guide.png</key>
-	<string>she/e/ixp/qvyi/wbi/h/2d9ffe49.png</string>
+	<string>h/m/zytp/yel/ymx/q/2d9ffe49.png</string>
 	<key>ad_reward/packs/ad_reward.plist</key>
-	<string>vdn/fe/uy/sahe/dv/w/0c63f606.plist</string>
+	<string>kba/oy/g/yqqt/qehie/nh/kv/0c63f606.plist</string>
 	<key>ad_reward/packs/ad_reward.png</key>
-	<string>lderl/dvhx/o/g/cje/ux/vtmb/nit/phs/ed646f66.png</string>
+	<string>ano/sayv/inefi/xcr/nsio/ooi/ed646f66.png</string>
 	<key>ad_reward/packs/kuang_2.png</key>
-	<string>km/o/mnv/aztze/ct/cnp/mnrs/rrbsl/wkznf/w/84f0d9e8.png</string>
+	<string>zirck/d/dejy/newh/kkc/ahch/rk/vd/ebzha/dctq/84f0d9e8.png</string>
 	<key>ad_reward/texture_atlas/ad_reward/close.png</key>
-	<string>prldi/rie/jwdiz/cru/yviqr/gsmbl/a/2d4fa03d.png</string>
+	<string>b/soz/r/gjml/dgu/2d4fa03d.png</string>
 	<key>ad_reward/texture_atlas/ad_reward/freebonus.png</key>
-	<string>yws/eusz/nwn/ymoq/qkb/afwk/jh/9b69b621.png</string>
+	<string>psx/vdlbq/wti/tmscu/la/fcq/eav/tvi/n/wechv/9b69b621.png</string>
 	<key>ad_reward/texture_atlas/ad_reward/freecoin.png</key>
-	<string>joff/vxdzc/qjmu/lncj/ztv/p/p/e35c35e8.png</string>
+	<string>emi/ir/irc/us/w/l/lvj/lmxcj/e35c35e8.png</string>
 	<key>ad_reward/texture_atlas/ad_reward/kuang_2.png</key>
-	<string>qm/wfar/po/rmgc/glyoi/ypzf/teu/ow/m/84f0d9e8.png</string>
+	<string>tg/ozngb/wij/jbi/foo/ynfp/ypk/84f0d9e8.png</string>
 	<key>commonEffect/header/chips/particles/baoshilizi_1.plist</key>
-	<string>wtrgh/p/a/thb/nmm/ee5dd4fb.plist</string>
+	<string>n/irpzn/fgb/lxonw/yem/l/rzrac/ca/ee5dd4fb.plist</string>
 	<key>commonEffect/header/chips/particles/bs_lz_01_1.plist</key>
-	<string>eyypp/pkm/ofcwx/mty/ctmef/blxf/de7c7b16.plist</string>
+	<string>fazmz/wpakr/ahwnw/bwotq/zxsjx/m/t/de7c7b16.plist</string>
 	<key>commonEffect/header/chips/spines/coins_fly_get/spine.atlas</key>
-	<string>kf/zw/rezvn/mccz/cv/bkrh/kxznn/ql/840c963e.atlas</string>
+	<string>sotj/tp/wx/kdt/gy/840c963e.atlas</string>
 	<key>commonEffect/header/chips/spines/coins_fly_get/spine.json</key>
-	<string>pe/l/bvur/hx/yryt/ae3bca99.json</string>
+	<string>rxwid/hda/df/mbmp/nr/n/ae3bca99.json</string>
 	<key>commonEffect/header/chips/spines/coins_fly_get/spine.png</key>
-	<string>abhl/rvv/qdhgh/wqa/pxg/xyu/njq/qvzds/tmovc/dd38c574.png</string>
+	<string>rgho/prdkq/viqb/bxq/czftv/m/cak/h/glapm/ue/dd38c574.png</string>
 	<key>commonEffect/header/chips/spines/coins_fly_start/spine.atlas</key>
-	<string>o/czxlq/ov/wi/m/r/ezy/840c963e.atlas</string>
+	<string>c/irqhi/fglx/gjrj/jp/dqla/cx/ibwk/840c963e.atlas</string>
 	<key>commonEffect/header/chips/spines/coins_fly_start/spine.json</key>
-	<string>kjjk/uwjan/nhd/jiud/xptr/folgi/fuvt/bvox/ae3bca99.json</string>
+	<string>egg/bbl/pn/qm/w/h/n/ae3bca99.json</string>
 	<key>commonEffect/header/chips/spines/coins_fly_start/spine.png</key>
-	<string>ybf/eaq/ee/ao/o/pzvm/vb/avkmj/ekpmr/jwafb/dd38c574.png</string>
+	<string>mxjak/jrpml/aec/yys/zdthk/vzs/nr/opc/tyqql/wx/dd38c574.png</string>
 	<key>commonEffect/header/coins/particles/jb_lzbj_01_1.plist</key>
-	<string>hjc/lbl/rvsei/nq/wyqt/zibg/kaowq/cexvc/31fa8907.plist</string>
+	<string>y/pa/w/miy/orhhw/u/k/mpd/q/31fa8907.plist</string>
 	<key>commonEffect/header/coins/particles/jinbilizi_1.plist</key>
-	<string>i/l/p/tjfz/fkbw/fxy/fsv/k/04f1c0b1.plist</string>
+	<string>bxze/vfh/ph/v/rqe/bq/n/04f1c0b1.plist</string>
 	<key>commonEffect/header/coins/spines/coin/skeleton.png</key>
-	<string>lf/tuoh/nct/lu/dkv/km/mfjn/n/9073950c.png</string>
+	<string>cb/yrneh/qlppl/prs/a/pp/9073950c.png</string>
 	<key>commonEffect/header/coins/spines/coin/spine.atlas</key>
-	<string>zpk/lxruv/wgeo/vu/lqcd/840c963e.atlas</string>
+	<string>sm/gpmnn/hd/ezv/dwbqc/tg/am/pg/840c963e.atlas</string>
 	<key>commonEffect/header/coins/spines/coin/spine.json</key>
-	<string>v/ej/xan/czjce/vj/mw/fq/ae3bca99.json</string>
+	<string>mi/j/e/ltpit/wdapy/dd/xax/tk/ae3bca99.json</string>
 	<key>commonEffect/header/coins/spines/coins_fly_get/spine.atlas</key>
-	<string>nsiqe/fxk/p/yx/fe/pwls/bk/kdbn/mf/otszc/840c963e.atlas</string>
+	<string>s/tzt/fkbai/slzos/xivtq/icmm/j/840c963e.atlas</string>
 	<key>commonEffect/header/coins/spines/coins_fly_get/spine.json</key>
-	<string>yal/h/i/a/alj/ir/mjzw/ae3bca99.json</string>
+	<string>ldhl/kul/g/xthj/aiogl/u/w/gwcxi/eulya/ae3bca99.json</string>
 	<key>commonEffect/header/coins/spines/coins_fly_get/spine.png</key>
-	<string>vfu/ifj/z/ykm/ssk/rgkzo/dd38c574.png</string>
+	<string>kcaiq/jwni/x/tnf/ghgmg/v/dd38c574.png</string>
 	<key>commonEffect/header/coins/spines/coins_fly_start/spine.atlas</key>
-	<string>er/fs/wa/dny/mqgvi/fd/djiw/aigxl/840c963e.atlas</string>
+	<string>at/qyxpf/pfwoj/mxe/kvbcu/cj/ok/e/840c963e.atlas</string>
 	<key>commonEffect/header/coins/spines/coins_fly_start/spine.json</key>
-	<string>eeftj/uib/oa/vd/tjsw/oxgu/hx/vtem/o/ae3bca99.json</string>
+	<string>dhho/ce/kotci/v/zem/y/rqh/uwha/f/ae3bca99.json</string>
 	<key>commonEffect/header/coins/spines/coins_fly_start/sqbd_01.png</key>
-	<string>iv/eoas/j/yux/vb/cyeqp/qltw/s/0b5ab4a3.png</string>
+	<string>nhp/xrkw/dp/y/o/rpdqy/0b5ab4a3.png</string>
 	<key>commonEffect/newchips/theme108/1.png</key>
-	<string>squ/q/xqn/rlgl/zyg/midg/ed12c7a5.png</string>
+	<string>ycten/uyuoq/w/zaykk/qesh/x/gn/xn/mevxd/jb/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme138/1.png</key>
-	<string>oi/oo/lxjsi/yyxn/nt/v/vqh/gil/ed12c7a5.png</string>
+	<string>kdg/usjd/ksj/dgv/nq/coh/qzed/df/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme164/1.png</key>
-	<string>aik/n/siirp/u/qacus/degf/fdaus/ed12c7a5.png</string>
+	<string>e/okhf/e/tajvs/q/u/t/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme174/1.png</key>
-	<string>vgmtz/kblcm/sa/tkexz/l/hm/bguu/ed12c7a5.png</string>
+	<string>ri/xjpsv/rfru/j/cyykc/brq/qnzv/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme177/1.png</key>
-	<string>l/cibra/kwfgq/s/qnd/k/vo/huokr/ed12c7a5.png</string>
+	<string>m/t/nbif/wg/qh/nuf/c/lyllx/hfb/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme186/1.png</key>
-	<string>ud/pyun/exa/cxliw/qpzjj/ed12c7a5.png</string>
+	<string>eiuli/xbz/gy/tg/afj/ojud/pxdq/nbqfe/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme188/1.png</key>
-	<string>m/ucfco/r/jiej/pxykp/kaw/vadzq/ed12c7a5.png</string>
+	<string>qfks/tw/qviw/weloj/i/lj/syjyc/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme192/1.png</key>
-	<string>scgoc/v/sypog/t/rybpa/urdml/rv/m/hn/c/ed12c7a5.png</string>
+	<string>nlgau/w/rcvib/nluis/mqmq/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme194/1.png</key>
-	<string>ecg/vqvxf/bummt/rl/qwf/zrjq/fega/ed12c7a5.png</string>
+	<string>f/kz/s/qvs/gqyq/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme220/1.png</key>
-	<string>lrai/g/bn/bjp/zh/dspxw/gpcan/rv/ed12c7a5.png</string>
+	<string>g/xvz/qtrza/fvxjd/yh/k/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme225/1.png</key>
-	<string>rhlgy/lteay/mzmvu/ibcc/pq/qf/ed12c7a5.png</string>
+	<string>odmr/riugc/cot/i/m/fadl/ygjdn/yotws/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme230/1.png</key>
-	<string>ruu/qjqix/ldncw/vri/bkvx/ed12c7a5.png</string>
+	<string>f/raqor/mzrts/y/bxb/e/ke/csgf/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme231/1.png</key>
-	<string>fhjxs/jogv/dhd/fsxu/sj/ed12c7a5.png</string>
+	<string>qkl/g/em/fi/dw/ima/eeyu/drrp/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme240/1.png</key>
-	<string>er/emhuj/r/a/ucev/j/qfooh/xd/elm/uxswb/ed12c7a5.png</string>
+	<string>nwd/vyq/ndarj/ia/uypj/be/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme244/1.png</key>
-	<string>js/bcy/gdi/kcizg/w/kkfu/jdcgp/pusy/zjqqg/mns/ed12c7a5.png</string>
+	<string>wfn/tuzf/abc/ebgwa/m/yscsi/kt/mmvi/e/bppw/ed12c7a5.png</string>
 	<key>commonEffect/newchips/theme325/1.png</key>
-	<string>udn/tk/q/zfysb/gnbb/mkeqx/prcd/sq/ed12c7a5.png</string>
+	<string>tdzen/xytkt/kemb/dom/z/mf/i/bgjo/vqj/oaksm/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme108/1.png</key>
-	<string>hsy/gqqmj/bhp/suk/mhtk/fgpfr/ulx/ed12c7a5.png</string>
+	<string>grv/be/gdc/j/etxc/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme138/1.png</key>
-	<string>uyf/czy/fnq/tfw/r/u/sg/ed12c7a5.png</string>
+	<string>r/spkg/kogs/jmjop/vn/i/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme164/1.png</key>
-	<string>oyq/og/bh/jey/abfn/d/mksf/poeqy/haxox/ed12c7a5.png</string>
+	<string>oljr/dkwws/uhaqd/yy/v/ntecy/c/wvyhl/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme174/1.png</key>
-	<string>l/avye/uv/ful/w/niwft/dgicx/g/ed12c7a5.png</string>
+	<string>jj/tfb/girji/v/j/hh/ps/ylmvn/ld/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme177/1.png</key>
-	<string>sm/te/xn/gexy/wwgux/ed12c7a5.png</string>
+	<string>tlk/nj/ap/joiu/oexth/ix/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme186/1.png</key>
-	<string>wyx/mwvru/m/wvo/t/omit/dvzj/nrgm/trss/ed12c7a5.png</string>
+	<string>p/hf/xaorp/mztkv/dxgkk/guyhu/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme188/1.png</key>
-	<string>ojed/iks/mapq/nu/jl/o/ed12c7a5.png</string>
+	<string>pgl/gcef/mg/xh/ggp/m/uszrt/p/bov/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme192/1.png</key>
-	<string>brhl/z/pngyh/xnn/f/sbs/kapwk/e/ehbg/ef/ed12c7a5.png</string>
+	<string>jcb/gljy/ibu/qv/p/qnei/wq/ohvc/sdrjq/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme194/1.png</key>
-	<string>ixn/qj/mkth/bext/eldf/lvoz/ed12c7a5.png</string>
+	<string>vnlpe/d/m/ruuq/w/owqn/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme220/1.png</key>
-	<string>n/j/o/dnw/u/ed12c7a5.png</string>
+	<string>qmry/vuo/hjmi/z/tx/wkuqv/tskem/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme225/1.png</key>
-	<string>zbw/yntt/rns/mcnfa/vqnjx/ed12c7a5.png</string>
+	<string>bkwda/zd/ti/t/hxgo/yo/w/hyx/ldfu/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme230/1.png</key>
-	<string>tnfna/wzll/dv/u/xkmnb/vu/vp/x/fd/fx/ed12c7a5.png</string>
+	<string>io/mbo/cfufg/fbnum/hwlk/vtroe/n/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme231/1.png</key>
-	<string>vpwj/amtgu/i/om/m/ed12c7a5.png</string>
+	<string>i/d/t/hjkui/ltc/x/cyzyc/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme240/1.png</key>
-	<string>tcko/b/y/kdmda/q/ed12c7a5.png</string>
+	<string>okdsr/wm/nw/wr/htvqa/ljur/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme244/1.png</key>
-	<string>wsg/ka/f/fhe/kjrs/qbpc/ed12c7a5.png</string>
+	<string>rrwtk/mt/eaxwy/huec/kk/ed12c7a5.png</string>
 	<key>commonEffect/newcoins/theme325/1.png</key>
-	<string>zx/rae/t/igsrc/dz/uyqym/ed12c7a5.png</string>
+	<string>wq/rjc/xjv/jqkj/okjbr/lhycu/chb/dq/ed12c7a5.png</string>
 	<key>commonEffect/winCoinsEffects/default/UltimateWin.atlas</key>
-	<string>jksyr/i/slup/buhr/ebao/fso/nprwc/vpmtk/a5498aae.atlas</string>
+	<string>hz/z/yh/jl/czbnz/qvqd/gw/ex/a5498aae.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/UltimateWin.json</key>
-	<string>fnpqt/emye/ck/pojbl/jvz/lksmr/xdba/jkfdc/tmg/eaaj/1151857e.json</string>
+	<string>vhprt/b/s/you/ugo/iqb/1151857e.json</string>
 	<key>commonEffect/winCoinsEffects/default/UltimateWin.png</key>
-	<string>fy/wfq/nj/uickl/kf/dtr/rboc/aue/nv/an/497d57d9.png</string>
+	<string>wodt/xzw/k/yi/r/mrslc/497d57d9.png</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Blue_Diamond.atlas</key>
-	<string>hbxg/avabw/gwmx/l/darrp/gs/3f38e1c4.atlas</string>
+	<string>gbze/zsd/fm/j/klkq/dgj/dcpc/trsso/dkria/kg/3f38e1c4.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Blue_Diamond.json</key>
-	<string>hqgfk/nxfsj/cu/b/puhu/lsl/r/kh/bz/5bf11773.json</string>
+	<string>qwl/m/gjy/rk/yo/yfip/vqx/xhqr/ot/5bf11773.json</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Blue_Diamond.png</key>
-	<string>yaft/hvhjo/xytw/mw/fwxer/qjdf/ggrbm/yk/xz/dee9f2e9.png</string>
+	<string>w/mke/n/kog/rsudn/evz/gwxjx/llqr/dee9f2e9.png</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Gold.atlas</key>
-	<string>o/yqckz/ar/jb/l/jouq/zqz/db70c80d.atlas</string>
+	<string>bf/hoqc/w/kzrb/d/fgowg/dspks/db70c80d.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Gold.json</key>
-	<string>jccge/bkjx/x/drgia/dlna/hvl/v/fq/gmstc/54593e86.json</string>
+	<string>s/q/atnbh/hcil/nxzin/oqtp/x/aa/ghd/54593e86.json</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Gold.png</key>
-	<string>pbb/of/aq/b/kl/70645bf6.png</string>
+	<string>apue/lt/lye/qzsi/ohrio/wxsge/qyq/70645bf6.png</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Green_diamond.atlas</key>
-	<string>tydw/sah/uyyt/rs/gh/f09fa43a.atlas</string>
+	<string>sid/tilj/t/iwaf/xlnv/rylf/bwwtm/y/m/f09fa43a.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Green_diamond.json</key>
-	<string>vtyn/fdumv/llk/fin/xzw/s/dw/elu/7711067f.json</string>
+	<string>te/jwp/sesn/hg/qeo/qrvn/xqdkd/7711067f.json</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Green_diamond.png</key>
-	<string>ity/xk/zvuss/ohyjz/lkc/jlowj/55849cd7.png</string>
+	<string>dmvja/nnone/ymuhc/eyn/eci/55849cd7.png</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Purple_Diamond.atlas</key>
-	<string>yo/hb/lhbcf/aum/wy/om/b15c6f1d.atlas</string>
+	<string>unsxs/sx/b/mpusl/ejevu/b15c6f1d.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Purple_Diamond.json</key>
-	<string>ouqlr/arns/bsikq/oaj/tib/s/lfjt/snx/3a323f1b.json</string>
+	<string>ap/cggxv/yd/hhbt/xo/cw/o/n/3a323f1b.json</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Purple_Diamond.png</key>
-	<string>irph/oo/lxl/td/blozn/t/vugrl/xfw/uv/4d623fd9.png</string>
+	<string>qo/fep/bn/ezo/ltw/4d623fd9.png</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Red_Diamond.atlas</key>
-	<string>a/shygm/f/g/u/bhf/yf/h/xoyiz/ae1330d6.atlas</string>
+	<string>vib/yj/x/b/kjvn/udh/tzw/s/thmxz/ae1330d6.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Red_Diamond.json</key>
-	<string>wc/srx/zcq/dfowo/vq/k/r/nzz/6c1cf792.json</string>
+	<string>pxurq/dpqr/ydkt/t/bgdg/qs/eac/vgzzl/a/d/6c1cf792.json</string>
 	<key>commonEffect/winCoinsEffects/default/Winning_Red_Diamond.png</key>
-	<string>wsp/yjab/zywhu/ym/cc/lyvte/hyy/h/umh/afcpc/f30e87d4.png</string>
+	<string>qtzb/cvw/uvgmk/pzam/e/nz/u/js/rynx/f30e87d4.png</string>
 	<key>commonEffect/winCoinsEffects/default/apocalyptlcwin.atlas</key>
-	<string>kosk/o/bw/kv/txg/cb/nm/poxd/hyknb/sfu/68437986.atlas</string>
+	<string>zdze/tq/hdb/dn/n/ya/68437986.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/apocalyptlcwin.json</key>
-	<string>x/y/w/x/vz/ewiem/qxydc/a/5c01cb07.json</string>
+	<string>vdn/snbn/g/lsfo/fdgv/gfqw/5c01cb07.json</string>
 	<key>commonEffect/winCoinsEffects/default/apocalyptlcwin.png</key>
-	<string>cpk/z/i/zwaz/l/iw/xux/vq/dnqtv/m/63ed8ea9.png</string>
+	<string>eymy/sfr/q/c/ihk/63ed8ea9.png</string>
 	<key>commonEffect/winCoinsEffects/default/big_win_bg.png</key>
-	<string>ajgtj/lh/xryux/odaks/tm/36be2477.png</string>
+	<string>xxujh/ac/pecm/rsm/h/rmv/36be2477.png</string>
 	<key>commonEffect/winCoinsEffects/default/big_win_particle.plist</key>
-	<string>ndfou/bzr/nys/wlh/hgke/dh/h/mna/fsuze/jnbzm/dbeb0c71.plist</string>
+	<string>aqe/bpx/xqjx/r/rfk/x/hupnd/pah/ebfij/dbeb0c71.plist</string>
 	<key>commonEffect/winCoinsEffects/default/bigwin.atlas</key>
-	<string>jmtbd/pgvx/as/izzb/elb/ryvec/zejzg/xlkzm/beca0ab8.atlas</string>
+	<string>y/twwfg/tk/cu/wmmk/fwfxo/lvlp/beca0ab8.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/bigwin.json</key>
-	<string>nunm/wse/kk/frf/z/e51777b8.json</string>
+	<string>x/i/ozhbr/mk/kxn/yxua/altgv/h/w/e51777b8.json</string>
 	<key>commonEffect/winCoinsEffects/default/bigwin.png</key>
-	<string>ukiki/nn/pbqd/ev/qdz/x/wy/wxg/lxmp/d3f2ad45.png</string>
+	<string>lgv/fpej/x/rtw/xfk/d3f2ad45.png</string>
 	<key>commonEffect/winCoinsEffects/default/eff_bg.png</key>
-	<string>vp/murc/vr/lf/a/bgo/g/705b50cc.png</string>
+	<string>l/af/dtff/t/yjgu/k/v/iiswc/y/705b50cc.png</string>
 	<key>commonEffect/winCoinsEffects/default/huge_win.atlas</key>
-	<string>lvums/yew/dl/ut/b/mxc/biwf/jf/wggk/ua/c4bc0514.atlas</string>
+	<string>bf/wi/ogmjm/m/rhm/pzm/vy/x/cpr/c4bc0514.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/huge_win.json</key>
-	<string>kji/hid/kz/bxu/evnld/fawa/nlneh/htkw/rndq/znb/1dd9b1a2.json</string>
+	<string>b/rp/sva/nflp/s/1dd9b1a2.json</string>
 	<key>commonEffect/winCoinsEffects/default/huge_win.png</key>
-	<string>qlek/wl/vcsg/wzpk/lk/mwi/vnuii/roc/cnu/1513f0a2.png</string>
+	<string>oh/y/gfz/xvwr/hvru/1513f0a2.png</string>
 	<key>commonEffect/winCoinsEffects/default/huge_win_bg.png</key>
-	<string>umdhu/csxq/liuiu/whex/xouzt/vd/pjwg/emnb/qy/e6e05782.png</string>
+	<string>j/foy/yfzi/vz/y/e6e05782.png</string>
 	<key>commonEffect/winCoinsEffects/default/massive_win_bg.png</key>
-	<string>aaqvy/her/vdr/xunz/kmrx/fb0f112d.png</string>
+	<string>jw/fazix/uirs/zylo/r/j/dqahl/qh/eiu/fb0f112d.png</string>
 	<key>commonEffect/winCoinsEffects/default/masslvewin.atlas</key>
-	<string>l/yys/mz/a/v/npdb/1054a6be.atlas</string>
+	<string>unmjx/l/gsmpx/ujlrd/h/1054a6be.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/masslvewin.json</key>
-	<string>k/zeih/em/qz/nhqi/tkx/glmj/uwvn/34f68916.json</string>
+	<string>ngwu/ulyuy/csoe/nn/dlzvv/z/emc/u/gye/34f68916.json</string>
 	<key>commonEffect/winCoinsEffects/default/masslvewin.png</key>
-	<string>p/pxxww/e/vhlah/qz/hoxy/t/a7b8d536.png</string>
+	<string>ghnvt/emewv/ff/r/jrcqe/mr/r/tls/o/bvsnr/a7b8d536.png</string>
 	<key>commonEffect/winCoinsEffects/default/reward_g_01.atlas</key>
-	<string>jsxvx/s/qr/ysq/x/qx/xw/nsefu/c330ca39.atlas</string>
+	<string>zf/tiw/ifn/sh/yugh/j/v/su/c330ca39.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/reward_g_01.json</key>
-	<string>gxe/rkyfr/jcwcp/iw/ym/1fa5f74c.json</string>
+	<string>gk/ky/fe/tnwk/qbds/f/bnbxr/jjfin/y/pkaro/1fa5f74c.json</string>
 	<key>commonEffect/winCoinsEffects/default/reward_g_01.png</key>
-	<string>fpllo/yx/rnw/pady/bl/cq/ju/dce51883.png</string>
+	<string>hcd/lgwtr/s/vi/cqzd/ger/vh/pgtvs/ks/dce51883.png</string>
 	<key>commonEffect/winCoinsEffects/default/win_bg.atlas</key>
-	<string>wgyh/ewaw/zj/bllzi/ys/cofx/bsb/wmd/k/ybl/44aecb5a.atlas</string>
+	<string>grg/jxpsg/pmaee/mgzow/mfn/fxh/rds/skkm/wfx/44aecb5a.atlas</string>
 	<key>commonEffect/winCoinsEffects/default/win_bg.json</key>
-	<string>gbj/neo/vce/idwm/jrdaj/zg/xgt/q/ypt/wux/8c901e6d.json</string>
+	<string>b/u/gib/usowe/xkjx/wvhj/hwc/xytwy/8c901e6d.json</string>
 	<key>commonEffect/winCoinsEffects/default/win_bg.png</key>
-	<string>txsc/a/bl/yglj/b/u/qgsp/svha/d/b190a7db.png</string>
+	<string>irfoh/s/u/x/ufx/b190a7db.png</string>
 	<key>commonfonts/display_lock_fnt01.fnt</key>
-	<string>bh/i/f/mx/y/djtb/pfywp/x/07ce7bcd.fnt</string>
+	<string>w/v/mg/o/mfkf/07ce7bcd.fnt</string>
 	<key>commonfonts/display_lock_fnt01.png</key>
-	<string>jjaz/ywgas/bftg/g/hqfyq/yfbuz/jc/lym/72fdc660.png</string>
+	<string>lfaf/ib/wluyc/uiutg/plct/xi/lj/z/72fdc660.png</string>
 	<key>commonfonts/fonts_loadingbt_zit01.fnt</key>
-	<string>jpcc/opn/sv/aff/mgjce/oyy/ctj/qsnno/20e4c02c.fnt</string>
+	<string>ix/vxi/ws/w/jlafx/d/h/lmkht/ju/qu/20e4c02c.fnt</string>
 	<key>commonfonts/fonts_loadingbt_zit01.png</key>
-	<string>ymbua/bjk/nqzno/jeekv/r/mr/zacfm/y/427edec9.png</string>
+	<string>k/xbvi/np/ydkak/b/ocl/qmp/427edec9.png</string>
 	<key>commonfonts/levelup_NB_font01.fnt</key>
-	<string>kbtg/rx/ldh/g/mlwtk/t/r/c/hse/fb9c165a.fnt</string>
+	<string>nl/ty/m/xmn/yd/ionpr/ef/fb9c165a.fnt</string>
 	<key>commonfonts/levelup_NB_font01.png</key>
-	<string>wkpk/xljb/n/lez/qifx/4c38430a.png</string>
+	<string>bhklk/l/qnq/jguv/h/hhg/ysa/4c38430a.png</string>
 	<key>commonfonts/lobby_buy_sign3.fnt</key>
-	<string>bt/yol/nymvx/tr/tjq/mx/02d7e5ad.fnt</string>
+	<string>ven/h/zhmhl/lxdbq/lcfw/z/jibmo/02d7e5ad.fnt</string>
 	<key>commonfonts/lobby_buy_sign3.png</key>
-	<string>udg/qjyo/iyach/fwsct/zvh/is/ektg/8c479d95.png</string>
+	<string>q/rxeiu/rw/llppn/oo/j/bnarl/j/8c479d95.png</string>
 	<key>commonfonts/paytable_commonfont01.fnt</key>
-	<string>e/vtm/rzz/ubch/mcya/3efa20f7.fnt</string>
+	<string>uvm/bg/rzrb/retfh/yalp/bi/p/nbvnz/vbx/3efa20f7.fnt</string>
 	<key>commonfonts/paytable_commonfont01.png</key>
-	<string>tvz/uds/n/fsq/fu/hg/swks/eigo/mxayh/d2ef33e9.png</string>
+	<string>vaox/wfuf/tgi/eoxaj/ds/eu/o/ewp/d2ef33e9.png</string>
 	<key>commonfonts/paytable_yellow_commonfont.fnt</key>
-	<string>n/ogpm/tnlro/fsr/qekpj/cbup/wc/wcn/mhl/hpxz/903e3e64.fnt</string>
+	<string>lpkry/va/g/cz/odxf/cjub/o/ma/o/903e3e64.fnt</string>
 	<key>commonfonts/paytable_yellow_commonfont.png</key>
-	<string>vqh/wka/qbd/lz/bb/f/pdv/rfa/bmvxu/qomiz/18be05e5.png</string>
+	<string>devxr/zmpfj/zy/s/ce/18be05e5.png</string>
 	<key>commonfonts/paytable_zit.fnt</key>
-	<string>dnjvr/hyod/xb/rpcp/vr/wvwgk/o/ac4a0260.fnt</string>
+	<string>fqjez/odb/huklw/uvjol/pzv/rna/ij/hy/nvxne/ac4a0260.fnt</string>
 	<key>commonfonts/paytable_zit.png</key>
-	<string>ssygr/zn/a/nffb/jabbw/j/s/1cddfd0f.png</string>
+	<string>job/ujq/nilg/huem/kpmf/cj/jl/1cddfd0f.png</string>
 	<key>commonfonts/theme_load_fnt01.fnt</key>
-	<string>lx/l/afik/qg/lu/qsb/daa948a4.fnt</string>
+	<string>kbp/htg/iqw/ht/i/he/eskl/daa948a4.fnt</string>
 	<key>commonfonts/theme_load_fnt01.png</key>
-	<string>ppbjg/dl/tp/i/hi/b39d4c4d.png</string>
+	<string>qsqz/bvkuh/dzhd/vfcn/nl/x/tqa/ueb/j/b39d4c4d.png</string>
 	<key>commonpics/bg_tip.png</key>
-	<string>pao/uyaj/dsbrr/xkutu/rjmzf/jsdep/pubs/yzhi/xx/73259aaf.png</string>
+	<string>nsvy/dyu/ukn/lgmz/bbhrp/fojba/fbf/tne/i/jcco/73259aaf.png</string>
 	<key>commonpics/common_black.png</key>
-	<string>spe/vlgv/m/tscp/lkcci/xprnz/qx/dazmp/fzfn/ayrjq/ba69baa8.png</string>
+	<string>ai/ei/ox/utos/v/ga/tv/hf/yuszp/ba69baa8.png</string>
 	<key>commonpics/kong.png</key>
-	<string>e/be/ap/jp/s/fduy/hf/vrjj/bf/96723db6.png</string>
+	<string>wcbg/vhmt/sy/ctri/svl/dc/ph/ywzf/b/aubn/96723db6.png</string>
 	<key>commonpics/kong2.png</key>
-	<string>qkxt/stnxn/soj/s/nst/h/utnyu/484f7228.png</string>
+	<string>mjbcy/ogukq/swdg/je/yl/o/fhmj/484f7228.png</string>
 	<key>commonpics/kong_black.png</key>
-	<string>v/i/whz/e/ji/gck/xgn/g/pvddk/774f0164.png</string>
+	<string>bgoo/fd/we/cuc/xej/ujzhl/ej/774f0164.png</string>
 	<key>facebook/spines/bg/spine.atlas</key>
-	<string>mjxyz/cw/q/vhlyr/gauj/inat/pix/840c963e.atlas</string>
+	<string>i/ekm/vtcg/kss/htuxg/zfot/d/rjm/dwm/gickh/840c963e.atlas</string>
 	<key>facebook/spines/bg/spine.json</key>
-	<string>vflq/obp/f/kc/jtly/ae3bca99.json</string>
+	<string>rj/hvlf/twgea/feovj/uhdbm/m/ae3bca99.json</string>
 	<key>facebook/spines/bg/spine.png</key>
-	<string>ipj/trzt/e/qowvh/lmdi/hf/ojlb/eyz/dd38c574.png</string>
+	<string>sahps/eao/bp/ttk/y/rirm/ohhkw/gwgsc/yl/inwt/dd38c574.png</string>
 	<key>facebook/textures/delete_btn.png</key>
-	<string>b/m/jh/bcn/i/zvaps/apay/oau/cdf17bfe.png</string>
+	<string>jzh/hk/utn/k/ao/ertb/cdf17bfe.png</string>
 	<key>facebook/textures/facebook_btn.png</key>
-	<string>romf/edmra/tvix/x/hlfu/wywrs/iwso/xnz/790deab4.png</string>
+	<string>ycvcj/qn/occd/r/nuopk/fn/tifh/jike/xlvs/gi/790deab4.png</string>
 	<key>file_res_map.plist</key>
 	<string>aa/bb/cc.plist</string>
 	<key>free_coins/fonts/freeLabel.fnt</key>
-	<string>xhiep/kxub/gh/hdwvz/i/hwoa/bkiy/pboys/s/z/7ff98ef9.fnt</string>
+	<string>ut/wpl/iiml/mi/sahs/s/7ff98ef9.fnt</string>
 	<key>free_coins/fonts/freeLabel.png</key>
-	<string>h/dxuu/cdbky/poi/oatfo/4d803572.png</string>
+	<string>qxe/rna/ts/pe/sui/fx/4d803572.png</string>
 	<key>free_coins/fonts/guide.fnt</key>
-	<string>wut/icoto/kggzh/nfks/yawym/nuea/35ef5ad7.fnt</string>
+	<string>jrdd/lg/iir/kf/zknk/eafgy/hpej/swf/dbqz/uhwlp/35ef5ad7.fnt</string>
 	<key>free_coins/fonts/guide.png</key>
-	<string>dsp/cicg/ia/tsu/w/gu/zhmjm/borgs/qfff/g/2d9ffe49.png</string>
+	<string>hyv/qyxd/aitr/yuo/vfi/haqqh/2d9ffe49.png</string>
 	<key>free_coins/packs/freeCoinsImg.plist</key>
-	<string>ulnck/ducfo/msy/y/jf/2bdebd04.plist</string>
+	<string>ys/bhvpk/agip/xcmmy/gjnp/jzjqk/lon/ukw/2bdebd04.plist</string>
 	<key>free_coins/packs/freeCoinsImg.png</key>
-	<string>duvw/t/xi/wks/hk/p/hmzf/v/9bde55cc.png</string>
+	<string>bt/h/uhlvl/xw/iv/owsiv/yywm/fo/yc/q/9bde55cc.png</string>
 	<key>free_coins/texture_atlas/freeCoinsImg/kuang_h.png</key>
-	<string>nl/c/flj/xaua/s/um/nca/qoy/t/cq/738b7b14.png</string>
+	<string>vorw/b/cut/mef/lzi/m/mh/xogv/ccup/738b7b14.png</string>
 	<key>free_coins/texture_atlas/freeCoinsImg/kuang_v.png</key>
-	<string>jz/zn/oei/nt/kxiu/zqbu/ctmz/slsc/3437755b.png</string>
+	<string>th/hmo/f/hiwj/ywr/o/spv/xy/3437755b.png</string>
 	<key>header_footer/fonts/auto_fnt01.fnt</key>
-	<string>fx/ge/faotf/j/bxy/apua/99526101.fnt</string>
+	<string>dz/nuwz/b/ohkde/bj/hbrp/m/oglfl/99526101.fnt</string>
 	<key>header_footer/fonts/auto_fnt01.png</key>
-	<string>bxa/hhf/l/ijs/cr/ffw/6d8b8ee1.png</string>
+	<string>s/ihhqs/jxml/vs/f/hl/cnq/fsyy/6d8b8ee1.png</string>
 	<key>header_footer/fonts/coins_font03.fnt</key>
-	<string>bxthg/cvb/efycs/q/ojcw/zu/3d2b42f2.fnt</string>
+	<string>nnrv/b/kycj/uzb/sbd/u/fsn/uah/3d2b42f2.fnt</string>
 	<key>header_footer/fonts/coins_font03.png</key>
-	<string>huty/p/irh/vwqd/lhzo/k/g/hz/152f2d59.png</string>
+	<string>chlc/a/gtuc/dk/dcj/zw/nat/ie/p/rw/152f2d59.png</string>
 	<key>header_footer/fonts/coins_font04.fnt</key>
-	<string>p/wrogo/qm/rcc/zdfsr/36db2faa.fnt</string>
+	<string>dhlzy/t/fr/bcqvi/i/qtf/36db2faa.fnt</string>
 	<key>header_footer/fonts/coins_font04.png</key>
-	<string>ak/cidjx/x/of/mbnf/vvw/hztf/78ee78f8.png</string>
+	<string>mw/uremp/g/umlbf/jwrfo/cppnu/a/78ee78f8.png</string>
 	<key>header_footer/fonts/winCoins.fnt</key>
-	<string>nzcoh/eendt/e/ilqc/skd/lvkpj/qjiy/ihbcj/bd8c11a1.fnt</string>
+	<string>fpwer/jz/f/t/lfd/vb/fb/ggez/wccj/bj/bd8c11a1.fnt</string>
 	<key>header_footer/fonts/winCoins.png</key>
-	<string>nylp/t/trn/yy/u/4549f9a0.png</string>
+	<string>mggc/tfmda/nzesk/vjauo/z/4549f9a0.png</string>
 	<key>header_footer/packs/footer.plist</key>
-	<string>ovcu/czl/pw/kz/bus/gdvi/5cb196fd.plist</string>
+	<string>y/q/yehd/c/slhz/kk/oy/we/ame/yciq/5cb196fd.plist</string>
 	<key>header_footer/packs/footer.png</key>
-	<string>as/n/fpnkc/f/ta/ywhv/938f34f0.png</string>
+	<string>y/k/xdwwy/qtfh/ml/zbec/938f34f0.png</string>
 	<key>header_footer/packs/free coin.png</key>
-	<string>tyoew/y/gy/svv/sh/pk/4927b2dd.png</string>
+	<string>bzza/y/yq/ulco/pn/mhqh/hpml/ust/wep/q/4927b2dd.png</string>
 	<key>header_footer/packs/freecoin.png</key>
-	<string>tz/ktg/psak/s/k/udd/fd/win/qpgm/tyyxy/e35c35e8.png</string>
+	<string>tmnc/msdzs/w/x/l/zqgw/v/unv/e35c35e8.png</string>
 	<key>header_footer/packs/header.plist</key>
-	<string>car/hwzxv/u/j/a/nitrl/vl/lrwld/ehoe/bcef0098.plist</string>
+	<string>ura/xm/akryp/gl/ikn/kblyj/ol/bcef0098.plist</string>
 	<key>header_footer/packs/header.png</key>
-	<string>dcjfy/efkw/k/wt/fgpxy/kf/o/gxia/ceq/kw/4d038dd4.png</string>
+	<string>oqv/nyus/qc/dloaz/qrmi/zndh/gbb/4d038dd4.png</string>
 	<key>header_footer/particles/max_bet_liziwenjian01_1.plist</key>
-	<string>rfpcs/htozu/rqvzw/y/ro/emam/aur/b/jls/ca497c0d.plist</string>
+	<string>kbks/lpnvq/fvr/jyhax/whpd/rlw/nl/s/zyxva/ca497c0d.plist</string>
 	<key>header_footer/particles/winParticle.plist</key>
-	<string>kepm/tpqiu/spmxa/qdhsz/qo/59146640.plist</string>
+	<string>umpbc/irowe/vgq/ow/liz/an/oyl/znsgc/59146640.plist</string>
 	<key>header_footer/spines/charge/spin_anniu_01.png</key>
-	<string>wseaq/kb/k/yc/rtlu/tdw/zj/371c95b2.png</string>
+	<string>cef/o/qqvei/fv/vzq/jqc/mnlr/xuqbe/371c95b2.png</string>
 	<key>header_footer/spines/charge/spine.atlas</key>
-	<string>jpd/nc/belhx/yug/voy/rf/840c963e.atlas</string>
+	<string>ywslh/ephc/fu/y/sg/zjyj/fekr/ajmhy/vqe/840c963e.atlas</string>
 	<key>header_footer/spines/charge/spine.json</key>
-	<string>md/l/dxyo/yb/u/usr/ae3bca99.json</string>
+	<string>fsgj/vwumr/feuqz/mzpm/oh/ae3bca99.json</string>
 	<key>header_footer/spines/chip/spine.atlas</key>
-	<string>bafsz/op/kjrzv/jt/n/840c963e.atlas</string>
+	<string>nu/n/qk/erg/viack/twrc/hnxfy/kk/840c963e.atlas</string>
 	<key>header_footer/spines/chip/spine.json</key>
-	<string>ukyg/h/vgsdb/aasm/kmmff/wahbp/bux/ob/s/ouq/ae3bca99.json</string>
+	<string>u/edkg/tbdo/hlq/fkut/zkjqn/mrib/mygd/ae3bca99.json</string>
 	<key>header_footer/spines/chip/spine.png</key>
-	<string>jq/clka/xg/oe/jl/l/dd38c574.png</string>
+	<string>qvt/ftni/pkfq/imdh/u/bhhu/iok/p/jhj/dd38c574.png</string>
 	<key>header_footer/spines/coin/spine.atlas</key>
-	<string>uyb/yrgez/dn/ro/bpov/hsg/mfst/qq/840c963e.atlas</string>
+	<string>au/cqhkq/gqr/oz/mbs/sa/bkc/lof/u/dlda/840c963e.atlas</string>
 	<key>header_footer/spines/coin/spine.json</key>
-	<string>la/onpo/cvcf/zpym/y/ae3bca99.json</string>
+	<string>bosqi/x/xerz/db/qqmph/dvwj/v/si/mqwuv/fdn/ae3bca99.json</string>
 	<key>header_footer/spines/coin/spine.png</key>
-	<string>lbjiw/evk/vew/cabf/bny/unq/dd38c574.png</string>
+	<string>z/qkdy/yv/h/kdkkk/le/t/lnkhi/jvcz/dd38c574.png</string>
 	<key>header_footer/spines/maxbet/max_bet.png</key>
-	<string>kettj/l/awjei/igkl/pncpu/ltciw/jjia/nja/lken/c513c68f.png</string>
+	<string>yjv/qvn/g/hh/jqugj/c513c68f.png</string>
 	<key>header_footer/spines/maxbet/spine.atlas</key>
-	<string>czzp/brveo/icpu/sntmr/ddgra/rlnhm/840c963e.atlas</string>
+	<string>ki/xdhzm/fi/c/po/w/et/840c963e.atlas</string>
 	<key>header_footer/spines/maxbet/spine.json</key>
-	<string>mhpki/noone/xfbr/k/wye/ae3bca99.json</string>
+	<string>t/wq/ajnh/tcdp/q/weqfj/kdxnm/ae3bca99.json</string>
 	<key>header_footer/spines/reward_effect/zhousi_jianglilanlizi.atlas</key>
-	<string>tw/qx/u/eqer/pdb/0dca736c.atlas</string>
+	<string>u/jkj/kf/lbo/ifg/abstl/mt/ihgj/x/uo/0dca736c.atlas</string>
 	<key>header_footer/spines/reward_effect/zhousi_jianglilanlizi.json</key>
-	<string>krjg/icmk/re/si/jz/rkon/4893e208.json</string>
+	<string>qagyv/nnoj/vnezb/ilij/gwlw/eljs/yugr/moy/pmxke/4893e208.json</string>
 	<key>header_footer/spines/reward_effect/zhousi_jianglilanlizi.png</key>
-	<string>pk/ktyo/hb/xaycb/zgguc/bds/g/ac/qwbt/fdb7353c.png</string>
+	<string>tlh/gq/ub/j/eul/lno/xfesu/tuk/fdb7353c.png</string>
 	<key>header_footer/spines/small_win/spine.atlas</key>
-	<string>wahlq/u/iea/kotd/rcvtp/qpo/o/a/840c963e.atlas</string>
+	<string>s/f/uj/iilfw/pxaep/o/ql/uomir/ma/840c963e.atlas</string>
 	<key>header_footer/spines/small_win/spine.json</key>
-	<string>rtgja/y/kiklx/qihy/zpsff/ae3bca99.json</string>
+	<string>vb/ie/pqasz/no/oubsw/yr/ae3bca99.json</string>
 	<key>header_footer/spines/small_win/xiao_win_01.png</key>
-	<string>nkr/qdnfr/l/s/lqzd/87b68233.png</string>
+	<string>lkxy/qraf/ad/deg/xh/p/lzzti/87b68233.png</string>
 	<key>header_footer/spines/small_win1/spine.atlas</key>
-	<string>ezy/uyv/ub/gb/ay/q/ewn/ty/xzgst/840c963e.atlas</string>
+	<string>ylyj/sus/bjbc/lnsgm/s/p/pss/ypmzk/fjdt/csu/840c963e.atlas</string>
 	<key>header_footer/spines/small_win1/spine.json</key>
-	<string>oun/r/vakp/li/vija/comq/bknuj/xh/ae3bca99.json</string>
+	<string>wult/rjjk/ixjt/r/iqr/gep/ywzc/wmciv/zxib/zj/ae3bca99.json</string>
 	<key>header_footer/spines/small_win1/xiao_win_02.png</key>
-	<string>x/fl/sflb/f/uq/wgwpu/bf3aedc1.png</string>
+	<string>p/d/kq/mzbrf/blxpr/kxgap/fnalk/zq/xz/bf3aedc1.png</string>
 	<key>header_footer/texture_atlas/header/set_button.png</key>
-	<string>bif/wio/zvpfi/c/iashr/i/xi/h/663d1736.png</string>
+	<string>ptr/d/lstkc/qyb/xgf/en/w/ixibx/hps/bru/663d1736.png</string>
 	<key>header_footer/textures/kong13345.png</key>
-	<string>skcw/jqn/ksjpk/qfoh/iqrij/giiyy/bf/jmngy/9f2fbf02.png</string>
+	<string>rezht/y/vv/kvw/t/or/jnmtc/lin/jk/evwcx/9f2fbf02.png</string>
 	<key>inspect/packs/inspect.plist</key>
-	<string>cx/kpg/zwdb/st/o/c/imefe/b5b85c04.plist</string>
+	<string>pbb/hbv/kuo/rbe/a/fvbov/hyqp/aef/wwcdz/swgz/b5b85c04.plist</string>
 	<key>inspect/packs/inspect.png</key>
-	<string>ur/fjghp/m/fiiet/vb/lrf/c/26d0a841.png</string>
+	<string>bnm/dobzx/wfchn/dlmkh/c/vh/ya/erun/26d0a841.png</string>
 	<key>lobby/fonts/tip_num.fnt</key>
-	<string>enb/za/gsjlx/wvnun/qd/sklp/nitfz/ky/epv/0af58ff8.fnt</string>
+	<string>t/pcbg/xqvhl/rygno/sds/yp/odg/0af58ff8.fnt</string>
 	<key>lobby/fonts/tip_num.png</key>
-	<string>a/v/cqgk/dvzzm/ynlx/cy/owwq/17f0186e.png</string>
+	<string>kfrcg/eg/wp/gjk/a/zbxg/bxtb/iyhq/k/17f0186e.png</string>
 	<key>lobby/packs/lobby.plist</key>
-	<string>sb/j/kz/n/jak/mpbr/f183707e.plist</string>
+	<string>git/rn/atq/gjg/fdaf/fs/f183707e.plist</string>
 	<key>lobby/packs/lobby.png</key>
-	<string>eoa/ivbt/tv/w/jjir/mj/2db1a1ea.png</string>
+	<string>qqu/iyd/vqda/rpamj/zxvq/kw/jrzyq/omzxp/av/2db1a1ea.png</string>
 	<key>lobby/spines/gift/spine.atlas</key>
-	<string>ycway/ib/pbsv/ulid/fyl/vwh/840c963e.atlas</string>
+	<string>bz/hlh/rmovx/tei/bowc/840c963e.atlas</string>
 	<key>lobby/spines/gift/spine.json</key>
-	<string>lomby/htb/lco/u/s/k/zixu/bmm/ae3bca99.json</string>
+	<string>g/thf/lph/tfp/sq/rp/z/r/uoqq/ldxun/ae3bca99.json</string>
 	<key>lobby/spines/gift/spine.png</key>
-	<string>j/gkk/a/h/opz/x/en/dd38c574.png</string>
+	<string>zwx/akaqd/ra/noa/id/dd38c574.png</string>
 	<key>lobby/spines/hand/spine.atlas</key>
-	<string>e/pl/rgwtm/u/cnrjm/tqiw/840c963e.atlas</string>
+	<string>tufok/ukbxk/fmb/gztk/cpdc/ihw/juc/840c963e.atlas</string>
 	<key>lobby/spines/hand/spine.json</key>
-	<string>obac/p/dvrud/n/qjc/b/pd/mit/ae3bca99.json</string>
+	<string>sz/iad/jl/puscx/xf/v/ukv/j/o/oaryb/ae3bca99.json</string>
 	<key>lobby/spines/hand/spine.png</key>
-	<string>jfn/xqfmy/tjtt/lo/qr/glvl/rg/cy/w/a/dd38c574.png</string>
+	<string>zfpkx/ghmx/pdlv/bh/o/qg/gehl/nh/i/dg/dd38c574.png</string>
 	<key>lobby/spines/lower/spine.atlas</key>
-	<string>x/tjc/jy/b/uoaox/yxp/840c963e.atlas</string>
+	<string>qrxs/zplvv/wyt/mz/n/hq/qcrnq/840c963e.atlas</string>
 	<key>lobby/spines/lower/spine.json</key>
-	<string>pw/eph/sh/mlj/gfq/ae3bca99.json</string>
+	<string>k/oome/cetpc/ootmt/kfs/c/u/ae3bca99.json</string>
 	<key>lobby/spines/lower/spine.png</key>
-	<string>dkn/jvq/bckd/wae/kes/oxqzi/usiln/nsyat/dd38c574.png</string>
+	<string>dap/nf/hyu/dth/iuhq/klfs/pr/uaoo/fbn/dd38c574.png</string>
 	<key>lobby/spines/upper/spine.atlas</key>
-	<string>p/plsan/thwvd/egim/oby/840c963e.atlas</string>
+	<string>aog/xgzk/eset/v/fh/f/u/nnxw/ykgc/840c963e.atlas</string>
 	<key>lobby/spines/upper/spine.json</key>
-	<string>wmlp/r/gzfl/faoux/z/ib/ae3bca99.json</string>
+	<string>sj/b/qait/j/oorg/ae3bca99.json</string>
 	<key>lobby/spines/upper/spine.png</key>
-	<string>lqczw/n/lq/t/anef/q/erlq/so/xvhil/dd38c574.png</string>
+	<string>f/rkt/j/kp/uqpc/mzm/tnd/dd38c574.png</string>
 	<key>lobby/textures/bg1.png</key>
-	<string>xhpd/zw/wr/tcdiz/judxr/piews/c433a66c.png</string>
+	<string>v/kvioe/ig/xntr/ylym/azjy/adu/pixz/zvxpa/oajnr/c433a66c.png</string>
 	<key>lobby/textures/bg2.png</key>
-	<string>bgyba/qrqjl/np/l/tlxs/nfdke/xgvr/dlyx/f4c4d932.png</string>
+	<string>jzbw/jl/l/vuw/gwvr/xx/fl/fknhz/f4c4d932.png</string>
 	<key>lobby/textures/bg3.png</key>
-	<string>t/rq/ka/xkqxw/lwd/osylj/ggdti/jyp/w/am/86709c65.png</string>
+	<string>gwrvl/yixp/t/zi/mznd/vy/l/vxo/86709c65.png</string>
 	<key>lobby/textures/kuang.png</key>
-	<string>dpxev/tyriv/rnvg/xm/ucpd/0f1d51c5.png</string>
+	<string>pvpu/wwymc/lx/qm/tmw/0f1d51c5.png</string>
 	<key>login/spines/mist/Tongyong_baowu.atlas</key>
-	<string>se/pblt/knrei/yn/dgcuo/d1f446db.atlas</string>
+	<string>g/gjkm/n/hzoda/ggc/cfgi/whk/d1f446db.atlas</string>
 	<key>login/spines/mist/Tongyong_baowu.json</key>
-	<string>ovbi/yhoxx/jpuum/csed/ltg/de4534ad.json</string>
+	<string>lkpdh/k/edvca/edk/pz/yeuok/h/rqia/de4534ad.json</string>
 	<key>login/spines/mist/Tongyong_baowu.png</key>
-	<string>dvd/uehu/wp/aot/ahtdj/pynky/b/h/6947125b.png</string>
+	<string>rquv/rdvwi/gfz/yfwh/ctxj/li/e/6947125b.png</string>
 	<key>login/spines/star/Tongyong_xingxing.atlas</key>
-	<string>hrvk/wi/von/wvr/yxezj/jqwy/0726e794.atlas</string>
+	<string>sl/tuqwa/hx/lskog/nick/oamjx/v/ozuug/0726e794.atlas</string>
 	<key>login/spines/star/Tongyong_xingxing.json</key>
-	<string>wnlxi/nrhxj/k/i/oafgp/par/xq/cs/fcccd262.json</string>
+	<string>wpzfn/pbkg/m/qgv/wo/cogu/skoqk/ayk/wfobr/fcccd262.json</string>
 	<key>login/spines/star/Tongyong_xingxing.png</key>
-	<string>brt/ie/wc/dymlp/wdj/nn/njq/au/lgiam/mxq/b3baee05.png</string>
+	<string>im/szl/tf/dqi/a/i/m/b3baee05.png</string>
 	<key>login/textures/btn_img.png</key>
-	<string>uq/xe/q/nuv/levkp/97bee30e.png</string>
+	<string>ja/rby/wekc/o/u/cek/uy/deeeu/97bee30e.png</string>
 	<key>login/textures/login_bg.png</key>
-	<string>lbhjn/l/eiui/drs/smpc/eeeip/7da7cd3c.png</string>
+	<string>ewss/oulcg/tcvur/ktgz/rrpzt/kxtig/yt/dmkn/cal/7da7cd3c.png</string>
 	<key>login/textures/login_man.png</key>
-	<string>dst/qcd/dle/kscy/lbzvj/ex/zq/4bbd8a54.png</string>
+	<string>qg/petq/ilh/cyq/n/wu/m/4bbd8a54.png</string>
 	<key>login/textures/signin.png</key>
-	<string>z/mjpd/tooni/uabhw/jyezv/dlxc/v/c409b6b0.png</string>
+	<string>krw/zef/p/p/sejat/c409b6b0.png</string>
 	<key>login/textures/signout.png</key>
-	<string>bt/rzkw/tjcnb/eqc/rlff/mqlyy/e/eckrr/1381f927.png</string>
+	<string>vr/tjnfs/znumx/dm/o/1381f927.png</string>
 	<key>setting/packs/setting.plist</key>
-	<string>xpt/zi/b/ukce/mlog/880fd999.plist</string>
+	<string>ytdn/upea/m/wxc/z/oxjuz/wc/xo/msqiz/o/880fd999.plist</string>
 	<key>setting/packs/setting.png</key>
-	<string>aift/y/y/oj/o/ql/ysnbk/7b769901.png</string>
+	<string>vq/qp/zz/udwv/bjas/okk/7b769901.png</string>
 	<key>sounds/08_collect_wild.mp3</key>
-	<string>be/tejr/v/pnma/fn/748e019c.mp3</string>
+	<string>s/d/fbl/d/t/rxnsd/i/wxiz/748e019c.mp3</string>
 	<key>sounds/1.mp3</key>
-	<string>rlrlh/dgp/c/x/zpazn/i/viga/iyhh/vjfiz/3a3c0976.mp3</string>
+	<string>x/xngc/gjmu/ftufo/wphq/uzal/omic/jutd/ckiia/3a3c0976.mp3</string>
 	<key>sounds/2.mp3</key>
-	<string>twzrv/bdmb/mczqy/yez/s/nx/f/yggl/uzwp/ip/c8b5aa50.mp3</string>
+	<string>aoq/qsy/jtcq/sblu/ynt/dt/oc/c8b5aa50.mp3</string>
 	<key>sounds/3.mp3</key>
-	<string>y/elvr/h/e/i/c/hfv/oh/8acc3457.mp3</string>
+	<string>la/si/zcjal/ucndw/ipb/my/dllln/juitc/bd/jvn/8acc3457.mp3</string>
 	<key>sounds/4.mp3</key>
-	<string>sy/p/jgb/r/twx/vf/e31d7935.mp3</string>
+	<string>xnlku/kh/hbor/zk/tcph/gw/m/e31d7935.mp3</string>
 	<key>sounds/baokai.mp3</key>
-	<string>w/ccua/alro/ygwvd/izlgc/rog/ns/wvs/i/15be4cf8.mp3</string>
+	<string>cvt/jt/n/gvyvq/dwb/zlaqx/twvmm/t/qwej/xe/15be4cf8.mp3</string>
 	<key>sounds/beng.mp3</key>
-	<string>fml/pvksb/pixij/z/i/o/8acdda2a.mp3</string>
+	<string>f/pz/kjkqh/rhh/qvjoy/kyq/vju/yuzo/8acdda2a.mp3</string>
 	<key>sounds/click.mp3</key>
-	<string>qrd/m/i/rblri/frnul/ayu/pel/lyn/r/hsdlq/21e74eda.mp3</string>
+	<string>cwhq/vaph/btm/qsun/quk/bpci/nas/albge/g/21e74eda.mp3</string>
 	<key>sounds/coins.mp3</key>
-	<string>z/rtsc/rf/xhv/l/wx/a/3236e6f5.mp3</string>
+	<string>syeg/k/lz/mxhwo/bijj/wx/wltue/zhgsh/3236e6f5.mp3</string>
 	<key>sounds/hallbg.mp3</key>
-	<string>znbs/kn/l/uxet/zpbx/dz/kzlx/lsk/qzw/db74fae3.mp3</string>
+	<string>l/fz/d/ng/zyrtq/db74fae3.mp3</string>
 	<key>sounds/suolian.mp3</key>
-	<string>dxbx/dfunv/ib/zzm/ac/99500662.mp3</string>
+	<string>egj/bcxa/pns/duknd/qlpqh/kxd/99500662.mp3</string>
 	<key>sounds/tiaochu.mp3</key>
-	<string>vv/x/msa/uf/vbgfc/oh/a3fc651b.mp3</string>
+	<string>pqkqt/o/k/iq/thgs/xoquj/yjgi/cv/v/a3fc651b.mp3</string>
 	<key>sounds/zhuanchang.mp3</key>
-	<string>d/sigro/l/i/lcrxj/fql/q/gug/e04f229c.mp3</string>
+	<string>extfi/svacv/zj/coc/as/bld/ti/seo/e04f229c.mp3</string>
 	<key>theme138/audio/base/anticipation.mp3</key>
-	<string>wcq/n/uydy/jvksm/xb/nj/jtoi/ar/d274f8f0.mp3</string>
+	<string>oatxr/x/ujszs/u/a/mjhhm/e/k/iat/xt/d274f8f0.mp3</string>
 	<key>theme138/audio/base/base_bgm.mp3</key>
-	<string>jf/m/ioflj/xnl/tzmg/b/h/wt/44fcf144.mp3</string>
+	<string>n/qrpzv/oikrx/a/qqhda/xgg/ahqa/uswri/apr/qsyn/44fcf144.mp3</string>
 	<key>theme138/audio/base/btn_click.mp3</key>
-	<string>w/qdt/ll/b/bt/nibsr/opzn/091e0943.mp3</string>
+	<string>h/na/uyol/og/pqn/awya/091e0943.mp3</string>
 	<key>theme138/audio/base/change.mp3</key>
-	<string>bdenl/kkzvn/mbnzk/mhr/zayl/zpy/s/q/cdtz/bwtt/af116cb1.mp3</string>
+	<string>jdri/nfr/fy/blhf/o/tla/af116cb1.mp3</string>
 	<key>theme138/audio/base/collect_down.mp3</key>
-	<string>x/ss/stgv/py/ebh/t/vsbg/bmes/hea/u/8b3a3ff9.mp3</string>
+	<string>uahm/bx/pzrs/vxx/r/knsqp/saq/s/oeo/rxmcr/8b3a3ff9.mp3</string>
 	<key>theme138/audio/base/fg_bell.mp3</key>
-	<string>tpm/zrvge/q/zhg/kmjsk/qs/a517f5f4.mp3</string>
+	<string>jthff/fmj/ble/q/smev/t/zl/kfbw/bo/fo/a517f5f4.mp3</string>
 	<key>theme138/audio/base/jili.mp3</key>
-	<string>yy/snrl/dhda/b/hcmhb/amtul/jz/pbt/ngysf/cu/1eb741ef.mp3</string>
+	<string>nxm/mqeeg/hj/stjn/qd/ovog/ijfks/1eb741ef.mp3</string>
 	<key>theme138/audio/base/lock.mp3</key>
-	<string>dg/wm/maw/g/suwi/e/q/wkp/fxgp/to/0cf3b529.mp3</string>
+	<string>rhyoz/mv/qvjgd/e/mcj/uq/h/0cf3b529.mp3</string>
 	<key>theme138/audio/base/man_full.mp3</key>
-	<string>cqyr/fzy/a/smu/g/wvl/cmo/uo/sqqw/96edbf6e.mp3</string>
+	<string>pkuu/pwwv/hfhu/xcwnt/egda/zc/fxyo/xapab/o/96edbf6e.mp3</string>
 	<key>theme138/audio/base/man_hill.mp3</key>
-	<string>px/jhlxo/ikcx/d/g/d5019617.mp3</string>
+	<string>twh/dmvp/wqtgf/l/b/d5019617.mp3</string>
 	<key>theme138/audio/base/man_move.mp3</key>
-	<string>tcrv/r/p/snla/qvspy/vvjgz/qp/nh/w/xsvwy/f33a41a5.mp3</string>
+	<string>rbey/f/oci/g/hc/szyou/v/ydixd/ibtlp/f33a41a5.mp3</string>
 	<key>theme138/audio/base/man_show.mp3</key>
-	<string>h/xxnm/j/yv/ego/pbent/stw/zdeas/40c1d6a7.mp3</string>
+	<string>lmyis/w/lga/lej/oov/ytgje/kb/40c1d6a7.mp3</string>
 	<key>theme138/audio/base/popup_in1.mp3</key>
-	<string>let/qjy/g/t/p/uujl/ozsjs/hexfu/yw/pegl/195884b5.mp3</string>
+	<string>t/mk/nfkpq/vqzyr/eijyw/thhhp/d/udp/195884b5.mp3</string>
 	<key>theme138/audio/base/popup_in2.mp3</key>
-	<string>pn/h/ike/pp/qm/axir/aea298ab.mp3</string>
+	<string>mrogv/bqw/nztgt/orkgd/e/duri/j/aea298ab.mp3</string>
 	<key>theme138/audio/base/popup_in3.mp3</key>
-	<string>vtbeb/hfl/fxl/gn/eia/ihod/yncpl/z/ca44c2fd.mp3</string>
+	<string>vboes/waty/x/bdq/sowvi/gxnba/socm/lyjbx/ca44c2fd.mp3</string>
 	<key>theme138/audio/base/popup_out.mp3</key>
-	<string>tfph/jrg/p/pcbpz/v/wo/hddzi/qxlb/d60b9c5c.mp3</string>
+	<string>m/m/ziv/ejce/ht/dtzla/d60b9c5c.mp3</string>
 	<key>theme138/audio/base/reel_stop.mp3</key>
-	<string>shsr/wpz/dr/ami/qfxcl/jh/p/svlc/f3f71d0c.mp3</string>
+	<string>ciki/hzq/r/a/kfd/du/edj/lfl/ax/f3f71d0c.mp3</string>
 	<key>theme138/audio/base/symbol_bonus1.mp3</key>
-	<string>fhx/qao/ssjbs/cby/zc/scegd/zof/bf/65c4f3fa.mp3</string>
+	<string>w/r/mkidz/m/u/ky/bqzo/j/fysvv/65c4f3fa.mp3</string>
 	<key>theme138/audio/base/symbol_bonus2.mp3</key>
-	<string>u/qdd/bl/gbong/yjbk/pp/pli/yhdct/dij/7cf54376.mp3</string>
+	<string>qje/dn/ljt/os/nvamz/v/uezt/o/7cf54376.mp3</string>
 	<key>theme138/audio/base/symbol_scatter.mp3</key>
-	<string>azo/phg/n/pg/j/sgln/a/07648082.mp3</string>
+	<string>i/bjjav/fnsp/pge/w/ij/qhl/ejoav/ouatp/07648082.mp3</string>
 	<key>theme138/audio/base/transition1.mp3</key>
-	<string>yz/sr/od/ejvho/h/ngbm/b5d4f891.mp3</string>
+	<string>gggx/q/xir/ewp/i/o/gcson/b5d4f891.mp3</string>
 	<key>theme138/audio/base/transition2.mp3</key>
-	<string>uxvfa/t/ee/t/ns/lo/com/x/0071ad29.mp3</string>
+	<string>vj/h/hj/cct/ywz/y/is/csssp/a/pyelt/0071ad29.mp3</string>
 	<key>theme138/audio/base/trigger.mp3</key>
-	<string>w/x/y/lbwy/a/tu/rz/ce32f9a8.mp3</string>
+	<string>ujrm/qmqle/fhj/ztxmp/gdap/xn/cl/jeq/ce32f9a8.mp3</string>
 	<key>theme138/audio/base/unlock.mp3</key>
-	<string>lxg/geyho/xauyq/c/bsdg/wbv/3935fd10.mp3</string>
+	<string>xclgb/qtxwf/wq/eeb/n/3935fd10.mp3</string>
 	<key>theme138/audio/base/wild_show.mp3</key>
-	<string>jfi/etcsh/h/d/vzs/by/xwyfq/arb/e22b8386.mp3</string>
+	<string>onsv/wub/cqc/u/hpa/rbmfy/njbz/euxru/adpb/e22b8386.mp3</string>
 	<key>theme138/audio/base/win1.mp3</key>
-	<string>q/lr/ph/yhqgr/ionka/zy/b/dauv/18604c03.mp3</string>
+	<string>og/s/ggl/tzejt/itply/q/18604c03.mp3</string>
 	<key>theme138/audio/base/win1end.mp3</key>
-	<string>dml/gs/wz/efsy/gl/994abe23.mp3</string>
+	<string>h/nfrd/uqvmr/ji/ef/pbmj/pyj/zke/ea/994abe23.mp3</string>
 	<key>theme138/audio/base/win2.mp3</key>
-	<string>gq/e/o/vkv/x/imz/xabm/f81be9d4.mp3</string>
+	<string>kdk/eps/te/jad/lhbix/iof/jbsi/f81be9d4.mp3</string>
 	<key>theme138/audio/base/win2end.mp3</key>
-	<string>vlwp/b/ojlft/o/kkt/088e66b2.mp3</string>
+	<string>c/h/glutd/c/ox/vprux/088e66b2.mp3</string>
 	<key>theme138/audio/base/win3.mp3</key>
-	<string>iivo/ff/n/j/dkvyu/eqea/e43305ce.mp3</string>
+	<string>rbvqq/kivn/qxwv/aaip/btee/wt/nvvt/e43305ce.mp3</string>
 	<key>theme138/audio/base/win3end.mp3</key>
-	<string>ff/x/sxq/qxgcd/td/aplyh/sh/dxmvl/sds/4d0a850b.mp3</string>
+	<string>zmxd/yxjpj/o/is/i/m/c/s/g/4d0a850b.mp3</string>
 	<key>theme138/audio/base/win4.mp3</key>
-	<string>u/vh/bmev/rtq/qaij/v/606d138e.mp3</string>
+	<string>itzs/jph/fyek/p/cmk/trev/606d138e.mp3</string>
 	<key>theme138/audio/base/win4end.mp3</key>
-	<string>mld/ngu/b/j/tay/l/fddc9c9e.mp3</string>
+	<string>t/a/nhs/ni/g/yoph/gxy/dtdy/gwpwm/fddc9c9e.mp3</string>
 	<key>theme138/audio/bonus/bonus_bgm.mp3</key>
-	<string>kdqfr/kkd/fjt/jxsq/lgve/f/d/bgs/9ad17e03.mp3</string>
+	<string>fhy/qhz/ykky/pb/g/hdnk/vpmnj/9ad17e03.mp3</string>
 	<key>theme138/audio/bonus/click.mp3</key>
-	<string>wnis/w/xw/u/nedvx/nvzxi/hspse/zty/21e74eda.mp3</string>
+	<string>xff/dnehf/tt/ydea/s/wo/juouh/o/ot/hxo/21e74eda.mp3</string>
 	<key>theme138/audio/bonus/collect_footer.mp3</key>
-	<string>gwf/dn/nbk/v/onpl/jrwbz/f993126c.mp3</string>
+	<string>g/afk/dr/vd/kvgmr/lvo/hafjq/f993126c.mp3</string>
 	<key>theme138/audio/bonus/collect_up.mp3</key>
-	<string>l/neehd/pr/a/jf/fd286b5d.mp3</string>
+	<string>rinw/tantx/vzjk/cso/gkp/y/fd286b5d.mp3</string>
 	<key>theme138/audio/bonus/end.mp3</key>
-	<string>ua/qjqha/jdv/s/ns/golx/rpw/wsdz/ej/zf/5e0ca522.mp3</string>
+	<string>wyns/ah/aa/x/elaqw/epdb/otw/pqg/5e0ca522.mp3</string>
 	<key>theme138/audio/bonus/full.mp3</key>
-	<string>xfph/mfkm/onsjz/pk/nrkl/evhxu/nklo/e5f99986.mp3</string>
+	<string>jf/alfgw/mqj/hzste/veamy/mmd/ef/psmc/miwpg/r/e5f99986.mp3</string>
 	<key>theme138/audio/bonus/mul.mp3</key>
-	<string>dbm/x/y/hnx/uzuf/utzle/dhvd/ppt/un/kcudw/a541477c.mp3</string>
+	<string>cbcc/xxjm/mheec/b/x/fsu/hrn/wpypn/wx/rwtn/a541477c.mp3</string>
 	<key>theme138/audio/bonus/mul_show.mp3</key>
-	<string>cj/ku/y/oi/nzu/lvxpr/db/fbsk/9181b320.mp3</string>
+	<string>hlzbu/ini/aas/izsx/sw/z/stsq/e/onsee/sd/9181b320.mp3</string>
 	<key>theme138/audio/bonus/num.mp3</key>
-	<string>fjndo/b/eyi/vj/k/litvp/prbov/v/71529430.mp3</string>
+	<string>bqno/v/exyle/ggs/ce/71529430.mp3</string>
 	<key>theme138/audio/bonus/popup_choose.mp3</key>
-	<string>ivxte/ny/xt/vz/e/n/neqg/es/ce34b735.mp3</string>
+	<string>kjnnr/umd/pew/oc/qr/ce34b735.mp3</string>
 	<key>theme138/audio/bonus/start_down.mp3</key>
-	<string>nl/tai/lhry/cefoz/bw/iqilt/pak/a3572266.mp3</string>
+	<string>ga/s/eveba/cfh/z/a3572266.mp3</string>
 	<key>theme138/audio/free/free_bgm.mp3</key>
-	<string>qxk/vrwkp/gjqf/pms/gzp/jrny/8b656f1b.mp3</string>
+	<string>rzyct/de/gxw/eh/wyruw/8b656f1b.mp3</string>
 	<key>theme138/csb/base.csb</key>
-	<string>qdt/ry/rdma/cndn/sa/dvgon/ssh/mjkv/j/ec92c493.csb</string>
+	<string>hvcbs/iwqi/lx/wqu/i/esw/ec92c493.csb</string>
 	<key>theme138/csb/free_spin.csb</key>
-	<string>wwef/pqcu/cat/m/o/cli/e3ae0271.csb</string>
+	<string>cil/gol/ng/ygh/ib/e3ae0271.csb</string>
 	<key>theme138/csb/mega_spin.csb</key>
-	<string>hvik/d/xpg/z/nkich/cmgsk/lq/a/gmbby/kdo/dd9ae4f9.csb</string>
+	<string>mk/qju/t/gpk/pjn/b/lwgbp/rfzan/dd9ae4f9.csb</string>
 	<key>theme138/csb/paytable.csb</key>
-	<string>zlwov/zn/hvgm/py/tqoyl/l/javcx/ec743191.csb</string>
+	<string>ed/kfz/kpjy/u/fsrqo/lxbcj/ec743191.csb</string>
 	<key>theme138/csb/respin_dialog.csb</key>
-	<string>gitzr/uuogc/ad/srx/phm/z/lschk/fhjbt/21bbb926.csb</string>
+	<string>govy/uqg/zb/osbf/rjuf/dg/jxlyq/jp/21bbb926.csb</string>
 	<key>theme138/csb/super_spin.csb</key>
-	<string>ncyii/ni/tqjj/q/oext/x/izvj/beqc/kink/w/d648468a.csb</string>
+	<string>sikzn/dii/bw/oi/io/dnjja/k/djyrv/q/yqkxl/d648468a.csb</string>
 	<key>theme138/font/theme138_fg_n.fnt</key>
-	<string>la/wlloc/yktcz/czmvs/gqke/pmjrc/zt/azc/vwsdb/0a3c23fa.fnt</string>
+	<string>zi/e/uv/jupqp/dnoi/okjt/jqvbf/vn/g/yijci/0a3c23fa.fnt</string>
 	<key>theme138/font/theme138_fg_n.png</key>
-	<string>soq/hxsx/iwhbq/javt/vr/lno/bmpyj/0363eb67.png</string>
+	<string>fmcuw/p/w/d/ny/vs/0363eb67.png</string>
 	<key>theme138/font/theme138_fg_n2.fnt</key>
-	<string>udylq/qzwg/gz/q/lc/cphy/bih/9e16d99e.fnt</string>
+	<string>jt/fnqhy/sndi/ycx/xquzj/9e16d99e.fnt</string>
 	<key>theme138/font/theme138_fg_n2.png</key>
-	<string>py/y/fwam/onzc/f/44bfb46b.png</string>
+	<string>dpfom/o/bfu/j/wx/la/gegmw/44bfb46b.png</string>
 	<key>theme138/font/theme138_fg_nbig.fnt</key>
-	<string>ux/nd/qsxz/pfl/vgdx/qqk/in/pt/z/08f22bda.fnt</string>
+	<string>t/qkto/fco/o/d/axm/vdhnm/ev/ypuqu/oembi/08f22bda.fnt</string>
 	<key>theme138/font/theme138_fg_nbig.png</key>
-	<string>bkti/oz/umb/piueu/noi/cik/vpvg/vjgd/ghkcd/44a98b35.png</string>
+	<string>mpqoz/wl/z/of/yngqu/uqkh/44a98b35.png</string>
 	<key>theme138/font/theme138_fg_nz.fnt</key>
-	<string>pwi/ci/pvif/is/xsdu/bnos/t/ebxr/1de46c3b.fnt</string>
+	<string>yifz/oj/ql/ytpr/hdw/bfdw/1de46c3b.fnt</string>
 	<key>theme138/font/theme138_fg_nz.png</key>
-	<string>kd/tjli/dsmgc/u/z/vkf/efqxq/y/ria/jq/e695dda0.png</string>
+	<string>qso/by/fkv/ms/kfmnj/e695dda0.png</string>
 	<key>theme138/font/theme138_fg_respin.fnt</key>
-	<string>lgerq/rfo/s/k/jdwu/hspvc/mi/ugru/ytrkm/pe/affa36b1.fnt</string>
+	<string>xnln/aiyrn/ty/omxe/evlm/affa36b1.fnt</string>
 	<key>theme138/font/theme138_fg_respin.png</key>
-	<string>pnuo/gh/m/k/p/ohw/k/f5a5fc8e.png</string>
+	<string>bc/lhrk/ehjc/nsm/bhe/kd/f5a5fc8e.png</string>
 	<key>theme138/font/theme138_fgxanz.fnt</key>
-	<string>gss/nnn/jk/uwclk/hbh/mzn/mlg/pdtvv/0c68d03f.fnt</string>
+	<string>cmcc/nqkp/yjqi/gmez/ddcj/mppb/r/qwa/0c68d03f.fnt</string>
 	<key>theme138/font/theme138_fgxanz.png</key>
-	<string>kjz/n/o/ewj/ypzqy/323e1aa5.png</string>
+	<string>x/tou/xdvf/okjq/lvkj/an/323e1aa5.png</string>
 	<key>theme138/font/theme138_grand.fnt</key>
-	<string>sceb/atzsv/udj/t/p/14015881.fnt</string>
+	<string>lm/btv/feh/qjfmu/qxz/ncda/14015881.fnt</string>
 	<key>theme138/font/theme138_grand.png</key>
-	<string>m/pt/odr/zrtt/rprl/wd/o/f19fe8e0.png</string>
+	<string>dqjjr/wm/m/jpfc/rhz/no/mqaga/ahnen/yi/f19fe8e0.png</string>
 	<key>theme138/image/base/theme138_bg_base.png</key>
-	<string>lgcl/swv/x/joe/j/k/mi/ozqid/ba90d51b.png</string>
+	<string>gil/x/ms/hsrh/u/mcq/ba90d51b.png</string>
 	<key>theme138/image/base/theme138_bg_bonus.png</key>
-	<string>jjvkr/apf/e/iy/m/mg/pb/yzgb/8d8f9328.png</string>
+	<string>ko/lzeu/lgaa/zg/ntcrw/o/8d8f9328.png</string>
 	<key>theme138/image/base/theme138_bg_free.png</key>
-	<string>v/uzhoe/bppev/mpkc/c/f/cmi/ziaar/6feefaac.png</string>
+	<string>qor/a/tizy/mqore/nzms/uykrc/cnz/6feefaac.png</string>
 	<key>theme138/image/paytable/paytable.plist</key>
-	<string>mc/u/qkfo/py/iz/bgcwr/mt/tuqy/a/f0461d07.plist</string>
+	<string>oeb/u/f/teywq/up/wbnyp/fsx/bnf/f0461d07.plist</string>
 	<key>theme138/image/paytable/paytable.png</key>
-	<string>bsefz/urgxv/jynvd/yhvs/hjqd/cjvd/b99dca5a.png</string>
+	<string>aexz/ts/ghjv/va/gs/qzsoh/f/gqetj/b99dca5a.png</string>
 	<key>theme138/image/plist/base.plist</key>
-	<string>ahpyi/mnyz/jyhh/ak/ggld/rx/rlrsb/mmurr/qh/dtxl/91f65aab.plist</string>
+	<string>l/h/pnpx/sklct/k/91f65aab.plist</string>
 	<key>theme138/image/plist/base.png</key>
-	<string>nilph/wnhn/lhuai/dbhji/bzc/1d79883c.png</string>
+	<string>czb/d/jkpon/hig/f/dngau/n/zgqqd/mk/1d79883c.png</string>
 	<key>theme138/image/plist/popup.plist</key>
-	<string>vp/b/ccfc/o/akqg/cdtbd/cmw/ddfddbb4.plist</string>
+	<string>ebf/lds/cvyjd/upvgu/z/ddfddbb4.plist</string>
 	<key>theme138/image/plist/popup.png</key>
-	<string>nq/n/kuju/nd/pud/a0c8f73a.png</string>
+	<string>nd/a/gjaa/vjd/ko/zl/nam/atba/kt/zbh/a0c8f73a.png</string>
 	<key>theme138/image/plist/symbol.plist</key>
-	<string>nrb/abkvx/rkb/ys/ss/ow/bvzfo/71dbd156.plist</string>
+	<string>ymz/ba/xxke/ufmmv/kozvr/gfjn/xz/q/71dbd156.plist</string>
 	<key>theme138/image/plist/symbol.png</key>
-	<string>l/izw/c/hqgc/xqjap/awsdl/h/f16d8336.png</string>
+	<string>ty/twxfq/vnqf/myuen/zky/a/f16d8336.png</string>
 	<key>theme138/spine/adTip/ggp.png</key>
-	<string>a/i/zv/quc/sx/vdfn/gmn/e8831760.png</string>
+	<string>vkxz/o/dszvt/lty/z/h/xvcas/aojk/vbe/hh/e8831760.png</string>
 	<key>theme138/spine/adTip/spine.atlas</key>
-	<string>u/kxyl/gvbm/kdqm/uqa/sc/e/hnvf/yj/840c963e.atlas</string>
+	<string>tblo/t/nbklq/rof/hep/840c963e.atlas</string>
 	<key>theme138/spine/adTip/spine.json</key>
-	<string>zx/anvu/cli/vg/yp/bag/qo/ae3bca99.json</string>
+	<string>p/xhqwg/zywjk/ohrh/wwoh/ae3bca99.json</string>
 	<key>theme138/spine/banzi/banzi.png</key>
-	<string>lx/sy/zv/zmncl/dx/f/4362f5b7.png</string>
+	<string>m/ti/qtc/pl/jerdo/ed/f/4362f5b7.png</string>
 	<key>theme138/spine/banzi/spine.atlas</key>
-	<string>e/xruqe/cq/zhtn/yiiq/fexm/pckkq/xqr/840c963e.atlas</string>
+	<string>di/pva/vwcyj/txuep/puib/cegac/el/b/dii/840c963e.atlas</string>
 	<key>theme138/spine/banzi/spine.json</key>
-	<string>q/az/t/axfch/j/zyqze/evgn/diduo/ae3bca99.json</string>
+	<string>q/ldos/cx/m/hpgto/q/mg/ae3bca99.json</string>
 	<key>theme138/spine/base/lzjs_01.atlas</key>
-	<string>laftd/jqz/j/yf/zfe/saqve/qwhz/m/d/47fc9fcf.atlas</string>
+	<string>lumj/xih/zhwly/ya/yr/kz/incb/47fc9fcf.atlas</string>
 	<key>theme138/spine/base/lzjs_01.json</key>
-	<string>p/gfo/buz/ukx/spnne/zqrd/g/qf/cn/fnf/1636b23f.json</string>
+	<string>vhwd/j/wzq/pyf/su/1636b23f.json</string>
 	<key>theme138/spine/base/lzjs_01.png</key>
-	<string>y/e/q/hj/mxxd/ca5f0d45.png</string>
+	<string>agig/mmuf/jqpw/xzydn/j/jfd/ca5f0d45.png</string>
 	<key>theme138/spine/base/qieping01.atlas</key>
-	<string>wc/nffk/ess/yap/hrix/qedf/p/5e004220.atlas</string>
+	<string>z/vr/h/vkn/aqk/ksu/qpnci/5e004220.atlas</string>
 	<key>theme138/spine/base/qieping01.json</key>
-	<string>oz/scmbh/nbaw/tdzic/n/dt/fiw/kg/d7ea7790.json</string>
+	<string>mjo/wsd/zykw/onk/w/d7ea7790.json</string>
 	<key>theme138/spine/base/qieping01.png</key>
-	<string>trvuh/ps/bau/cgb/d/g/e85ec2e4.png</string>
+	<string>mgdj/gr/tqko/zob/kenpo/e85ec2e4.png</string>
 	<key>theme138/spine/base/qieping02.atlas</key>
-	<string>grovu/c/pvei/m/rrw/zkk/cqggq/vq/fbnen/b32acad6.atlas</string>
+	<string>pp/m/figsb/ale/i/qhy/hh/nt/ugzz/b32acad6.atlas</string>
 	<key>theme138/spine/base/qieping02.json</key>
-	<string>g/nuqr/wxp/jb/e/tpmwy/akv/iw/n/bdb5c0d2.json</string>
+	<string>cfx/k/f/kpzty/gpo/gshwu/fjz/bdb5c0d2.json</string>
 	<key>theme138/spine/base/qieping02.png</key>
-	<string>qdek/igt/ahw/qrir/nz/n/wgr/rw/d/ffa89eb2.png</string>
+	<string>tosq/wpyf/ec/z/ijyax/jo/keh/jgkfm/djy/gj/ffa89eb2.png</string>
 	<key>theme138/spine/dialog/anniu.atlas</key>
-	<string>yrd/gne/aip/w/apxgn/32ec5f9b.atlas</string>
+	<string>vhzlc/gotd/dwuv/ie/fcoyn/bfudo/32ec5f9b.atlas</string>
 	<key>theme138/spine/dialog/anniu.json</key>
-	<string>nbcev/m/nmyty/lii/pdlfp/s/pl/sbqu/n/5be1a7da.json</string>
+	<string>bq/h/ppl/oa/pqjt/5be1a7da.json</string>
 	<key>theme138/spine/dialog/anniu.png</key>
-	<string>rux/ls/rjpzj/xir/m/ikehj/17690983.png</string>
+	<string>pa/pfz/mzm/kda/rlxn/z/esm/trxhd/ev/17690983.png</string>
 	<key>theme138/spine/dialog/changanniu.atlas</key>
-	<string>bptu/l/h/mphry/grgwt/ykbsc/vxu/xl/ded204c6.atlas</string>
+	<string>ia/kl/wvrd/uvx/dpj/ded204c6.atlas</string>
 	<key>theme138/spine/dialog/changanniu.json</key>
-	<string>too/k/fgea/x/jmpi/ul/79716e4f.json</string>
+	<string>jh/i/i/apj/wr/mt/kw/kzq/kd/dhj/79716e4f.json</string>
 	<key>theme138/spine/dialog/changanniu.png</key>
-	<string>jf/oxbqf/dbqc/k/lre/9f3479f4.png</string>
+	<string>g/ok/rpbjz/jqxt/cb/xqqd/spief/9f3479f4.png</string>
 	<key>theme138/spine/dialog/congrzi.atlas</key>
-	<string>qvog/hinht/nylu/u/bm/ed/ss/k/76a2a848.atlas</string>
+	<string>kwvt/rg/ohuo/or/ti/lgqq/rppd/ys/cyut/76a2a848.atlas</string>
 	<key>theme138/spine/dialog/congrzi.json</key>
-	<string>vze/agufn/gwc/vjec/giym/6e98d685.json</string>
+	<string>nta/og/iua/ae/sfxcy/ogx/q/olq/gigx/6e98d685.json</string>
 	<key>theme138/spine/dialog/congrzi.png</key>
-	<string>il/drel/ygv/ehg/xoqqk/z/kdou/pdi/i/isjsk/352d25fe.png</string>
+	<string>nsg/o/jl/edpwy/myc/iyd/nhfrj/mod/jq/352d25fe.png</string>
 	<key>theme138/spine/dialog/deng.atlas</key>
-	<string>vy/blfp/rz/q/yh/xomhj/dylxn/ka/vozfj/knkx/f33b01c1.atlas</string>
+	<string>tnpp/wpan/qp/ledo/mlc/fg/vpsuj/po/t/f33b01c1.atlas</string>
 	<key>theme138/spine/dialog/deng.json</key>
-	<string>iu/tqx/hldl/lht/rfyil/372297b8.json</string>
+	<string>w/gmkcp/x/leuek/lv/372297b8.json</string>
 	<key>theme138/spine/dialog/deng.png</key>
-	<string>tgao/y/q/cg/gsn/ei/a/pb/rrnrj/sxa/e9f72f26.png</string>
+	<string>cv/nfy/i/bfrmq/wfhkf/tolb/hyer/cah/lmvn/g/e9f72f26.png</string>
 	<key>theme138/spine/dialog/maozixianrenzhang.atlas</key>
-	<string>sh/rluc/uhfbs/ewt/vjfsl/s/mq/qlr/zck/h/1f35d910.atlas</string>
+	<string>eivs/mk/r/ler/rx/1f35d910.atlas</string>
 	<key>theme138/spine/dialog/maozixianrenzhang.json</key>
-	<string>xppj/hjc/qzwb/f/tjka/wc/oxb/babee340.json</string>
+	<string>tht/stv/oqy/xqc/wh/qq/adtt/kpqb/babee340.json</string>
 	<key>theme138/spine/dialog/maozixianrenzhang.png</key>
-	<string>rul/hzxa/m/a/q/a/ceb51f43.png</string>
+	<string>yn/onzhj/w/eg/x/ceb51f43.png</string>
 	<key>theme138/spine/dialog/megazi.atlas</key>
-	<string>biou/ad/c/tgzfq/o/v/zc/nmrz/hpzo/ca85f374.atlas</string>
+	<string>fs/ap/tzyu/lk/ojfeg/kp/zibuf/y/esjzg/ca85f374.atlas</string>
 	<key>theme138/spine/dialog/megazi.json</key>
-	<string>rdr/wlsn/o/ffex/a/56f62cf5.json</string>
+	<string>rkg/topc/gqm/hdx/bpc/xiea/drvn/56f62cf5.json</string>
 	<key>theme138/spine/dialog/megazi.png</key>
-	<string>q/ymf/sryr/gf/oy/ocbfm/f/ii/tkg/96fac229.png</string>
+	<string>o/yj/yec/nifpz/jdycz/96fac229.png</string>
 	<key>theme138/spine/dialog/superzi.atlas</key>
-	<string>yv/mbvcp/o/prbc/t/4793f324.atlas</string>
+	<string>ob/g/o/okzp/z/tqny/4793f324.atlas</string>
 	<key>theme138/spine/dialog/superzi.json</key>
-	<string>tlhxv/pu/akxh/gakko/dt/zq/ybgc/f44f6fbb.json</string>
+	<string>armc/alfua/vwxwh/fw/cg/ljskm/qkut/f44f6fbb.json</string>
 	<key>theme138/spine/dialog/superzi.png</key>
-	<string>bsy/mztki/z/qghks/ackmk/z/pjy/zyae/k/mn/58a40148.png</string>
+	<string>c/edtg/dxrmu/pg/gg/zomjq/j/58a40148.png</string>
 	<key>theme138/spine/dialog/winzi.atlas</key>
-	<string>ujqh/yp/fojed/p/nsm/cwbh/fq/qzsi/mtahd/riquf/d0921e04.atlas</string>
+	<string>ylqeg/nyh/msde/ocd/aeeb/d0921e04.atlas</string>
 	<key>theme138/spine/dialog/winzi.json</key>
-	<string>stju/tp/j/xdq/e/g/pqdwy/n/fd51d861.json</string>
+	<string>gnt/of/i/abbwh/sqao/kdo/p/fd51d861.json</string>
 	<key>theme138/spine/dialog/winzi.png</key>
-	<string>eesyr/rcqks/rklue/uji/wot/fdku/tp/k/gd/385c7465.png</string>
+	<string>vz/hg/n/sm/ajvi/ppcke/uwk/385c7465.png</string>
 	<key>theme138/spine/dialog/xuanzhongguang.atlas</key>
-	<string>pnrkn/m/wcmuu/jrg/ezbz/kdusa/x/ve/cdai/m/1822dcd5.atlas</string>
+	<string>stsm/szz/ua/dseaa/bwtg/nz/zml/k/edf/1822dcd5.atlas</string>
 	<key>theme138/spine/dialog/xuanzhongguang.json</key>
-	<string>oiie/ihe/qrmw/xvux/b/z/oxng/8e6b07f7.json</string>
+	<string>drqb/qlma/h/zycp/h/uf/jwagc/g/xk/8e6b07f7.json</string>
 	<key>theme138/spine/dialog/xuanzhongguang.png</key>
-	<string>d/uvp/tt/j/frjm/946d20c3.png</string>
+	<string>zpk/vrdpp/zke/ztfqh/oz/ysoxu/g/946d20c3.png</string>
 	<key>theme138/spine/full/jm.png</key>
-	<string>i/yrfa/nchfe/dxbbs/c/c/v/kon/w/df0a03af.png</string>
+	<string>dqrjc/gqmpd/tbf/dyin/cs/b/nif/flcvs/df0a03af.png</string>
 	<key>theme138/spine/full/spine.atlas</key>
-	<string>k/cgi/cz/ryg/umo/ckf/dtnqc/l/r/840c963e.atlas</string>
+	<string>zchfz/jpo/s/pvedm/x/cd/y/z/840c963e.atlas</string>
 	<key>theme138/spine/full/spine.json</key>
-	<string>cixo/u/ueadl/gozv/rtscr/r/n/t/poktf/lcg/ae3bca99.json</string>
+	<string>f/qwr/glja/u/bhjc/eumj/ihry/ae3bca99.json</string>
 	<key>theme138/spine/item/1/m1.png</key>
-	<string>yvpff/ykv/n/c/wcr/nqp/4571d791.png</string>
+	<string>xvq/vokv/ljnun/wsieh/m/mmdwg/te/pp/nz/4571d791.png</string>
 	<key>theme138/spine/item/1/spine.atlas</key>
-	<string>tarsl/vvbg/yx/ge/bk/cv/ypaz/840c963e.atlas</string>
+	<string>t/yziy/uii/syhhk/fbyf/tl/840c963e.atlas</string>
 	<key>theme138/spine/item/1/spine.json</key>
-	<string>pvvx/nb/e/cdrms/bsh/ae3bca99.json</string>
+	<string>ccy/ql/sxi/wa/z/vah/az/pj/l/mebp/ae3bca99.json</string>
 	<key>theme138/spine/item/11/scatter_01.png</key>
-	<string>z/dghw/uc/rxc/pc/vugsx/npb/z/hyojl/24735a67.png</string>
+	<string>me/pkjn/udiw/h/ars/en/ioqr/24735a67.png</string>
 	<key>theme138/spine/item/11/spine.atlas</key>
-	<string>v/f/tu/kwj/g/a/840c963e.atlas</string>
+	<string>tz/xa/mbd/yhzq/fi/cg/zdy/lbvn/a/840c963e.atlas</string>
 	<key>theme138/spine/item/11/spine.json</key>
-	<string>udeuy/refm/rrnn/los/ucrt/ev/hfmvp/tgnbd/eydri/ial/ae3bca99.json</string>
+	<string>r/mje/lnzf/bwq/uardi/itq/ae3bca99.json</string>
 	<key>theme138/spine/item/13/spine.atlas</key>
-	<string>nva/v/z/yadzq/zgl/840c963e.atlas</string>
+	<string>mtru/kqie/yq/yhe/b/qmhv/jyh/itx/840c963e.atlas</string>
 	<key>theme138/spine/item/13/spine.json</key>
-	<string>u/zzwwz/kg/xhie/z/iu/eu/k/ae3bca99.json</string>
+	<string>xm/cbeh/vj/bl/xrfus/t/zk/hdp/wz/gsqk/ae3bca99.json</string>
 	<key>theme138/spine/item/13/wild_01.png</key>
-	<string>v/k/k/r/jbm/a/pw/uaudv/orgkv/cbve/10b1985e.png</string>
+	<string>nu/d/eh/uhop/qm/dw/10b1985e.png</string>
 	<key>theme138/spine/item/14/bouns_01.png</key>
-	<string>ria/kej/blbh/aygx/w/ebk/eaz/bj/a6e145ac.png</string>
+	<string>nn/cqkeq/dxn/hj/s/vfo/eru/mjnxd/a6e145ac.png</string>
 	<key>theme138/spine/item/14/spine.atlas</key>
-	<string>e/fx/b/sv/ktp/840c963e.atlas</string>
+	<string>d/mnr/zgy/qmgl/n/cean/d/puzb/840c963e.atlas</string>
 	<key>theme138/spine/item/14/spine.json</key>
-	<string>ukck/os/v/ood/ixbzl/umzct/rjwma/xh/iko/oozh/ae3bca99.json</string>
+	<string>asrqc/ntkn/xxri/orm/c/n/m/ae3bca99.json</string>
 	<key>theme138/spine/item/2/m2.png</key>
-	<string>nv/xor/gjms/ea/vgs/dxlk/ws/djvv/a/zq/81bddd85.png</string>
+	<string>tv/bul/azip/dk/mfqg/v/ipva/krr/le/81bddd85.png</string>
 	<key>theme138/spine/item/2/spine.atlas</key>
-	<string>b/ym/o/t/znp/pewoj/bgo/840c963e.atlas</string>
+	<string>j/kqofm/rl/vjsz/snp/apvh/srbj/oqwz/gdi/840c963e.atlas</string>
 	<key>theme138/spine/item/2/spine.json</key>
-	<string>l/hoxud/srasp/h/gqnp/ekwj/ae3bca99.json</string>
+	<string>ufrik/ffzu/wwkxo/nubkz/lv/cz/nvbzu/tls/qmt/ae3bca99.json</string>
 	<key>theme138/spine/item/3/m3.png</key>
-	<string>fjh/kguui/zk/dd/ymqd/ihxg/r/2a17908c.png</string>
+	<string>sbpxq/m/ogb/pbh/fobfm/oge/mc/acr/l/2a17908c.png</string>
 	<key>theme138/spine/item/3/spine.atlas</key>
-	<string>v/wqv/aqudk/jbc/ug/gc/uyksh/auo/840c963e.atlas</string>
+	<string>ng/mz/li/w/u/rme/840c963e.atlas</string>
 	<key>theme138/spine/item/3/spine.json</key>
-	<string>kjg/kcmww/n/vhc/mlgr/teajq/fdrqe/i/wcb/zvb/ae3bca99.json</string>
+	<string>y/c/brf/faqq/resxh/wg/ae3bca99.json</string>
 	<key>theme138/spine/item/4/m4.png</key>
-	<string>v/st/s/tqlfw/jjxk/d98b2020.png</string>
+	<string>dtcp/ie/rl/ip/wgjsw/sn/zd/d98b2020.png</string>
 	<key>theme138/spine/item/4/spine.atlas</key>
-	<string>zqhf/wljhq/ryqyf/xcuh/kca/buvdm/xs/j/a/l/840c963e.atlas</string>
+	<string>eyu/rafrx/d/ltonw/nw/nlnpr/840c963e.atlas</string>
 	<key>theme138/spine/item/4/spine.json</key>
-	<string>j/omgp/bo/v/sems/vkndf/w/ae3bca99.json</string>
+	<string>oeskr/nog/ylhs/xkelg/grb/zh/y/fmv/ae3bca99.json</string>
 	<key>theme138/spine/item/5/m5.png</key>
-	<string>wim/g/jnym/n/p/bfad13c0.png</string>
+	<string>uwygr/pwur/vv/o/qukey/yhfti/z/rclm/bfad13c0.png</string>
 	<key>theme138/spine/item/5/spine.atlas</key>
-	<string>c/pd/cftui/juujb/udatk/uhgbn/ude/fz/fuxy/840c963e.atlas</string>
+	<string>f/qdvt/u/tkwt/r/gugfs/840c963e.atlas</string>
 	<key>theme138/spine/item/5/spine.json</key>
-	<string>nyxzy/xteaw/hlup/nfod/wwkve/htwdz/q/ae3bca99.json</string>
+	<string>wahsd/ygpsf/rk/awxwy/o/lhc/zv/aijwr/tzpk/brp/ae3bca99.json</string>
 	<key>theme138/spine/item/bonus2/bouns2.png</key>
-	<string>ml/zk/bqgwn/bii/y/bjyo/exh/ebqmo/al/cj/b620b937.png</string>
+	<string>w/gsk/uif/qfxk/nys/b620b937.png</string>
 	<key>theme138/spine/item/bonus2/spine.atlas</key>
-	<string>i/m/tt/goxw/k/840c963e.atlas</string>
+	<string>owpqj/vuq/psjrx/v/okh/i/c/g/pm/pfa/840c963e.atlas</string>
 	<key>theme138/spine/item/bonus2/spine.json</key>
-	<string>lqut/jlgm/xxc/u/gsfk/teln/ang/jn/lmu/tezs/ae3bca99.json</string>
+	<string>e/ep/kwjar/ynnue/fau/dl/f/yi/ae3bca99.json</string>
 	<key>theme138/spine/jiesuo/jiesuo.png</key>
-	<string>se/uxj/qu/dkt/o/qxra/pxm/ypvis/cekvk/sobhm/f67769c9.png</string>
+	<string>r/e/zwu/bl/zycj/omtcu/ix/f67769c9.png</string>
 	<key>theme138/spine/jiesuo/spine.atlas</key>
-	<string>vo/jqcvy/mdw/kuiu/sndzh/zh/ix/hr/lomoi/840c963e.atlas</string>
+	<string>ooc/tu/twuf/a/t/bazq/omkzn/wskp/840c963e.atlas</string>
 	<key>theme138/spine/jiesuo/spine.json</key>
-	<string>izyqu/yhzta/vcvms/t/bhpl/d/tqwu/nt/ae3bca99.json</string>
+	<string>mpme/wgku/a/kzzyv/yvhfp/i/ae3bca99.json</string>
 	<key>theme138/spine/jinshan/js.atlas</key>
-	<string>gj/hum/gt/dr/ckb/39637998.atlas</string>
+	<string>brg/xh/hvvz/mjkry/usi/l/39637998.atlas</string>
 	<key>theme138/spine/jinshan/js.json</key>
-	<string>m/dpzqy/fyzk/gh/pqjxm/ifu/fhvh/a/36f597c4.json</string>
+	<string>iisv/wvh/olakt/spu/hjqt/36f597c4.json</string>
 	<key>theme138/spine/jinshan/js.png</key>
-	<string>zws/g/hlfng/otpfj/wf/uv/fkxyn/rmg/pawuc/d0b2efd1.png</string>
+	<string>ktdx/p/ieev/cmutw/h/nwe/pjs/pkxcm/bh/d0b2efd1.png</string>
 	<key>theme138/spine/kuang/138zjlx_01.png</key>
-	<string>pvvwz/paf/gnd/jms/lxtwf/nuvp/pk/8171d8ff.png</string>
+	<string>iwcs/p/vvukb/qk/d/ebvsk/v/vf/j/8171d8ff.png</string>
 	<key>theme138/spine/kuang/spine.atlas</key>
-	<string>im/wklv/q/qozq/iby/ptsdn/jxc/oxn/840c963e.atlas</string>
+	<string>cfv/iq/jahn/vrtc/puzme/bjso/n/n/xs/840c963e.atlas</string>
 	<key>theme138/spine/kuang/spine.json</key>
-	<string>jow/aissw/die/vzmw/ou/ddn/ae3bca99.json</string>
+	<string>l/ekc/gtb/spyw/k/fl/al/qk/f/cjpcg/ae3bca99.json</string>
 	<key>theme138/spine/man/ren.png</key>
-	<string>md/r/a/voczd/jbma/f/tmou/xurky/at/cd97c961.png</string>
+	<string>hrkw/n/ovlxv/xzamj/s/me/knoby/rguuk/cd97c961.png</string>
 	<key>theme138/spine/man/spine.atlas</key>
-	<string>yskf/gk/uqacm/g/ijulb/zp/840c963e.atlas</string>
+	<string>dequ/eo/rj/sful/qytrd/t/xcp/tqsv/g/ughtv/840c963e.atlas</string>
 	<key>theme138/spine/man/spine.json</key>
-	<string>imxcz/kgfbr/zxuf/s/p/wlbl/voqmu/dg/he/qohs/ae3bca99.json</string>
+	<string>godzl/izmc/pyne/tlgg/x/ete/giawx/up/mzdsx/u/ae3bca99.json</string>
 	<key>theme138/spine/paytable/dantu/CX_saoguang01.png</key>
-	<string>systk/h/yvfb/iavd/tdeak/lnejr/fff42dc9.png</string>
+	<string>tc/krysk/szpaj/uhvyc/qton/fff42dc9.png</string>
 	<key>theme138/spine/paytable/dantu/elephant_gl01.png</key>
-	<string>sp/v/i/lsgj/zorqx/dgt/ec9676d4.png</string>
+	<string>lljag/f/spvl/jt/urfr/veqwu/fgwqy/pyd/iqy/bmacb/ec9676d4.png</string>
 	<key>theme138/spine/paytable/spine/back_to_game01.atlas</key>
-	<string>ty/qhi/qrro/tfeyk/xfnpk/hdwq/pegp/b/b970e47a.atlas</string>
+	<string>rj/k/szcdl/ffp/l/qws/vxtvx/b970e47a.atlas</string>
 	<key>theme138/spine/paytable/spine/back_to_game01.json</key>
-	<string>fyd/lbh/lzm/pykuo/zoon/av/nprax/sin/f44957eb.json</string>
+	<string>h/ucl/qedk/f/ka/nas/t/f44957eb.json</string>
 	<key>theme138/spine/paytable/spine/back_to_game01.png</key>
-	<string>ye/cqtcw/twzo/rezdk/coe/mr/vmdd/6c4b2829.png</string>
+	<string>zq/uwo/a/es/aqjy/qd/6c4b2829.png</string>
 	<key>theme138/spine/respin/fanbei.atlas</key>
-	<string>l/gqk/b/oaavh/bjwd/oxv/f5c4cb4d.atlas</string>
+	<string>v/m/s/hi/kafm/f5c4cb4d.atlas</string>
 	<key>theme138/spine/respin/fanbei.json</key>
-	<string>gqhz/wpaiu/x/kr/xya/a1cdf769.json</string>
+	<string>s/ndocu/ph/j/s/eodb/sdzj/wwpoo/dlbee/vkze/a1cdf769.json</string>
 	<key>theme138/spine/respin/fanbei.png</key>
-	<string>c/z/vkh/dyje/ip/f69e86d5.png</string>
+	<string>rws/psqs/vonh/tlv/yjm/l/ueao/kpqw/f69e86d5.png</string>
 	<key>theme138/spine/respin/footerjieshou.atlas</key>
-	<string>tqbq/g/ueix/fsmay/vt/jxb/hr/id/sjdc/13a93b66.atlas</string>
+	<string>cdhh/yx/m/omsd/ndyws/cf/kejpa/rncxr/13a93b66.atlas</string>
 	<key>theme138/spine/respin/footerjieshou.json</key>
-	<string>prkhg/g/zi/rlr/nvrse/vxu/snidr/odxk/763e87b5.json</string>
+	<string>ozd/zwz/zuox/isk/wacsz/d/zq/wm/rbv/763e87b5.json</string>
 	<key>theme138/spine/respin/footerjieshou.png</key>
-	<string>q/wg/l/m/ygtuf/q/iv/yzvd/uw/54d10117.png</string>
+	<string>iwzv/g/g/v/zgkw/zyt/54d10117.png</string>
 	<key>theme138/spine/respin/footerjiesuan2.atlas</key>
-	<string>wlhu/jrhu/ozewz/ljfpc/frut/z/ts/uaayu/ggk/shl/6125ed2e.atlas</string>
+	<string>xjvj/v/x/p/dfcsa/mu/gbcrx/vs/oae/6125ed2e.atlas</string>
 	<key>theme138/spine/respin/footerjiesuan2.json</key>
-	<string>xzb/eu/cqhi/u/tf/feld/nt/z/44492f97.json</string>
+	<string>mfqh/gi/vzq/q/r/44492f97.json</string>
 	<key>theme138/spine/respin/footerjiesuan2.png</key>
-	<string>r/gg/fowbm/g/r/o/woo/mxklu/n/arnak/e490a730.png</string>
+	<string>omq/k/eamja/s/s/oqpr/e490a730.png</string>
 	<key>theme138/spine/respin/jm_blz_01.atlas</key>
-	<string>zlxbw/u/hx/lru/bhrjw/iza/rtp/o/jsrkj/pmvx/2fb5d0d4.atlas</string>
+	<string>o/kza/vnf/p/hfbi/qs/g/2fb5d0d4.atlas</string>
 	<key>theme138/spine/respin/jm_blz_01.json</key>
-	<string>e/sa/yb/sro/sbev/j/swrz/jt/xqsiy/f/788b9148.json</string>
+	<string>neshq/saxic/i/b/ypg/sgfov/mowhr/vl/pcow/788b9148.json</string>
 	<key>theme138/spine/respin/jm_blz_01.png</key>
-	<string>lnk/cp/sl/mem/tqyw/3f22f662.png</string>
+	<string>qqfo/vy/nydj/x/ac/3f22f662.png</string>
 	<key>theme138/spine/respin/shuzibeijing.atlas</key>
-	<string>c/nnogg/gjyz/gx/grm/sscu/hmir/siqeo/mew/bze/37253e8a.atlas</string>
+	<string>azl/q/un/xc/kmvs/37253e8a.atlas</string>
 	<key>theme138/spine/respin/shuzibeijing.json</key>
-	<string>lbd/bw/ro/qv/rwc/ds/hqg/zxs/vzqpu/cf7c4aa2.json</string>
+	<string>pesh/owoyf/wm/jnz/t/aebq/x/ad/n/zzz/cf7c4aa2.json</string>
 	<key>theme138/spine/respin/shuzibeijing.png</key>
-	<string>mdzq/bmbtr/m/xrchn/j/nnrm/rs/vg/678db7a9.png</string>
+	<string>hgwea/sjkym/rfs/e/ufofk/qzq/678db7a9.png</string>
 	<key>theme138/spine/respin/shuzilizi.atlas</key>
-	<string>cwo/i/jd/c/xajru/w/v/df/285c64ae.atlas</string>
+	<string>iauat/pjnq/ej/hcx/u/285c64ae.atlas</string>
 	<key>theme138/spine/respin/shuzilizi.json</key>
-	<string>zibc/edude/w/tfc/djcga/rdehb/cvhdt/odcfy/9654aa86.json</string>
+	<string>fyngs/c/d/fev/ugok/ez/mbxa/cs/aelhg/9654aa86.json</string>
 	<key>theme138/spine/respin/shuzilizi.png</key>
-	<string>ddbt/weppa/qdky/m/duz/tpji/jp/v/brao/lj/3e023803.png</string>
+	<string>eqi/rcc/bchwe/y/vz/etwlp/dbn/hqrbu/3e023803.png</string>
 	<key>theme138/spine/respin/tiaojieshou.atlas</key>
-	<string>uz/qwqa/nclc/eyz/ctoe/ktb/zi/jjudg/dba70356.atlas</string>
+	<string>waeee/y/u/eo/mry/tjq/jfc/mn/dba70356.atlas</string>
 	<key>theme138/spine/respin/tiaojieshou.json</key>
-	<string>nsuo/o/vbtcg/p/tyd/nttl/ut/jsiut/vxfol/qjze/df8930d0.json</string>
+	<string>c/ebr/v/woihr/ir/u/df8930d0.json</string>
 	<key>theme138/spine/respin/tiaojieshou.png</key>
-	<string>dtse/mgx/aamef/smrdc/cq/tcqum/caz/7390aa6e.png</string>
+	<string>c/h/u/evv/noxq/e/de/7390aa6e.png</string>
 	<key>theme138/spine/respin/wenhaodaidianji.atlas</key>
-	<string>tmr/xejle/wty/o/smalt/inyw/wwknt/znzcq/lfsz/qjiqp/cbb23bda.atlas</string>
+	<string>n/wrvka/r/zcby/ta/jvhp/fdoxf/trpt/mu/npyh/cbb23bda.atlas</string>
 	<key>theme138/spine/respin/wenhaodaidianji.json</key>
-	<string>e/xoig/fhjw/ksog/xzefg/fp/bvaic/p/guecf/vnu/db4d7176.json</string>
+	<string>yuykw/it/ugsm/wsmt/zqwqi/pdzmw/req/dxrzx/db4d7176.json</string>
 	<key>theme138/spine/respin/wenhaodaidianji.png</key>
-	<string>ydxsz/raoqm/twm/ni/vjmkh/gthjp/d/hei/ow/vwms/ef3d97c3.png</string>
+	<string>mpa/wkb/nz/cpmj/ckvaf/yddbb/rslw/ef3d97c3.png</string>
 	<key>theme138/spine/respin/x2zi.atlas</key>
-	<string>gb/iaqph/gq/vz/iukv/hqdbl/rtsx/ipkb/ysg/uvxb/d8bc65a8.atlas</string>
+	<string>rjfjj/blso/h/llal/mzi/gin/btrg/dbg/elx/gpk/d8bc65a8.atlas</string>
 	<key>theme138/spine/respin/x2zi.json</key>
-	<string>h/jvlcf/flh/xeb/anp/hrmqc/ae/bkit/q/0d03d3b0.json</string>
+	<string>k/fnh/unm/lf/iee/0d03d3b0.json</string>
 	<key>theme138/spine/respin/x2zi.png</key>
-	<string>nc/vsg/ijk/bdb/yadhl/kgbo/nyc/gu/002939cf.png</string>
+	<string>jrbz/cb/yik/whhmx/u/fjkpb/o/ayl/ov/rjlyy/002939cf.png</string>
 	<key>theme138/spine/respin/xiangshanglizi2.atlas</key>
-	<string>kskw/t/fognk/ywnnz/jen/ptlf/k/pw/edc24e51.atlas</string>
+	<string>zgy/nc/tri/j/nbklh/n/avbu/irz/edc24e51.atlas</string>
 	<key>theme138/spine/respin/xiangshanglizi2.json</key>
-	<string>x/jwcmm/puxf/sag/ggbc/srjr/mko/k/fd402808.json</string>
+	<string>gzwm/nblsn/wz/vo/ts/bb/vqre/df/jqs/w/fd402808.json</string>
 	<key>theme138/spine/respin/xiangshanglizi2.png</key>
-	<string>xnhq/rdes/iazfb/ycsef/piz/tp/bud/d/ca3737f5.png</string>
+	<string>bguul/b/brmi/vig/hy/y/bj/ca3737f5.png</string>
 	<key>theme138/spine/respin/xiangxializi2.atlas</key>
-	<string>wovmp/ta/fqf/upiyg/r/yrzm/nq/u/d46c5063.atlas</string>
+	<string>b/zp/vnb/vn/tfdi/c/m/bm/i/osvpc/d46c5063.atlas</string>
 	<key>theme138/spine/respin/xiangxializi2.json</key>
-	<string>y/pnjt/dju/ty/qud/v/k/eyj/foi/66dde7e7.json</string>
+	<string>venq/ibfuc/fuqx/s/h/g/66dde7e7.json</string>
 	<key>theme138/spine/respin/xiangxializi2.png</key>
-	<string>x/tztyg/ywbqu/jiufc/oa/fk/huov/dede9ef9.png</string>
+	<string>avj/jr/iuxqu/yii/w/gteg/gt/kqb/dede9ef9.png</string>
 	<key>theme138/spine/special/mjl_01.png</key>
-	<string>c/mgih/gdz/dzubn/ov/q/272e3575.png</string>
+	<string>aqwnt/xfc/pmo/r/nnicm/eeag/gqn/272e3575.png</string>
 	<key>theme138/spine/special/spine.atlas</key>
-	<string>runb/v/sl/ge/oj/ngny/g/mxw/afyvw/840c963e.atlas</string>
+	<string>zs/att/l/dfsc/w/neeo/840c963e.atlas</string>
 	<key>theme138/spine/special/spine.json</key>
-	<string>z/yxbp/o/euu/myv/i/z/ae3bca99.json</string>
+	<string>heus/h/em/czu/cpr/v/c/ye/ae3bca99.json</string>
 	<key>theme_desktop/commonpics/kong.png</key>
-	<string>vhv/gpw/qb/eefbf/kslev/ui/wixk/96723db6.png</string>
+	<string>bety/nsdd/lhpep/nr/gr/y/r/96723db6.png</string>
 	<key>theme_desktop/commonpics/kong_black.png</key>
-	<string>nh/fw/jibvy/dvhmp/vniuj/jetf/eldqy/r/q/vjz/774f0164.png</string>
+	<string>ibqxq/nik/yj/vfrto/aiqc/dakf/774f0164.png</string>
 	<key>theme_loading/image/loading2_com/activity_close.png</key>
-	<string>quxl/chzw/junti/vyid/uv/yl/ngalk/a/ca5b3af6.png</string>
+	<string>ngo/w/dpzi/hefk/gwo/oae/ca5b3af6.png</string>
 	<key>theme_loading/image/loading2_com/activity_close_press.png</key>
-	<string>ke/djm/afcm/mno/ctsd/pl/dv/b016e151.png</string>
+	<string>ysmsd/ytxqq/ck/kgsm/legz/huzgl/sm/fayh/b016e151.png</string>
 	<key>theme_loading/image/loading2_com/h_loading_bar01.png</key>
-	<string>uo/ps/sn/rvgj/paj/ejg/m/cks/8ed34f70.png</string>
+	<string>eyhg/lk/knmyl/lg/e/h/jyi/hbjhg/8ed34f70.png</string>
 	<key>theme_loading/image/loading2_com/h_loading_bar02.png</key>
-	<string>nhekv/gpk/xk/wey/x/d6bd4e22.png</string>
+	<string>yyca/oycj/r/uekd/eg/aj/gsme/d6bd4e22.png</string>
 	<key>theme_loading/image/loading2_com/theme_loading_fnt01.fnt</key>
-	<string>w/eh/p/xf/bjtwj/y/gm/v/xwjo/hzf/5c829553.fnt</string>
+	<string>a/j/px/xfc/de/ax/g/e/nhri/thtn/5c829553.fnt</string>
 	<key>theme_loading/image/loading2_com/theme_loading_fnt01.png</key>
-	<string>gus/k/zm/csruu/yjmx/836886d1.png</string>
+	<string>k/tzeyj/mgjpc/s/l/g/836886d1.png</string>
 	<key>theme_loading/image/loading2_com/v_loading_bar01.png</key>
-	<string>t/ghp/w/ismu/fgcb/lpd/bbbdddd2.png</string>
+	<string>bz/gqacm/hg/dctv/jp/bbbdddd2.png</string>
 	<key>theme_loading/image/loading2_com/v_loading_bar02.png</key>
-	<string>yhcjx/esez/r/o/ka/ltyhs/hop/npvjh/9ebed179.png</string>
+	<string>fadi/aq/eokei/f/hmuj/lvspl/ymvr/y/9ebed179.png</string>
 	<key>theme_loading/theme138/loading/loading_theme138.plist</key>
-	<string>zwk/way/zow/afrl/tsc/jfz/c933f083.plist</string>
+	<string>b/e/j/miyld/gnhs/lzty/qfi/c933f083.plist</string>
 	<key>theme_loading/theme138/loading/loading_theme138.png</key>
-	<string>wsmp/tumn/xi/zdd/bi/mbtml/d/cq/bcecn/045622bf.png</string>
+	<string>zehy/wyywv/nyu/xx/kaifg/045622bf.png</string>
 	<key>theme_loading/theme138/loading/theme138.csb</key>
-	<string>rzf/qua/sd/qe/pue/gbop/dbdq/zxs/c1f88b61.csb</string>
+	<string>lhgta/vpt/kuef/mz/kfay/gbwq/e/hsmqd/c1f88b61.csb</string>
 	<key>theme_loading/theme138/loading2/loading2_theme138.plist</key>
-	<string>r/nq/se/jg/jswim/ro/miib/5e24e4d2.plist</string>
+	<string>eayxs/arnv/mpuy/hh/bhv/apk/toue/5e24e4d2.plist</string>
 	<key>theme_loading/theme138/loading2/loading2_theme138.png</key>
-	<string>zam/esg/itmc/nh/qay/smyvr/sn/2129bda4.png</string>
+	<string>pf/sf/ywr/x/saoz/edekc/adosq/r/no/2129bda4.png</string>
 	<key>theme_loading/theme138/loading2/theme138_loading.csb</key>
-	<string>d/mb/pht/dm/vnn/wnu/rqvy/izn/l/di/19ad08a4.csb</string>
+	<string>huap/na/k/glsgj/ycyl/r/jsdkb/rhfey/ybc/19ad08a4.csb</string>
 	<key>ui/ad_reward/ad_reward_pop.lua</key>
-	<string>zaae/pcaoc/fpu/nwbq/qa/l/kvkok/vpsj/efa56d26.lua</string>
+	<string>nfxsi/jwa/d/iigka/byhl/le/efa56d26.lua</string>
 	<key>ui/facebook/facebook_pop.lua</key>
-	<string>auiy/y/a/jja/ycz/auxj/kukns/f7fe9dcf.lua</string>
+	<string>lo/v/jk/kopw/lto/dcg/iown/t/xykd/f7fe9dcf.lua</string>
 	<key>ui/free_coins/freecoins_pop.lua</key>
-	<string>frcfa/j/cimu/xjc/n/scr/vskms/psdn/eofa/nmmlj/4b8e087d.lua</string>
+	<string>je/vs/dtv/khmq/vu/hm/ogifs/nup/bn/4b8e087d.lua</string>
 	<key>ui/header_footer/coin_node.lua</key>
-	<string>grcb/yn/a/p/r/11094c2d.lua</string>
+	<string>lyv/urggi/gfx/tre/z/u/lhfg/dx/11094c2d.lua</string>
 	<key>ui/header_footer/diamond_node.lua</key>
-	<string>acth/ga/cbhu/nfu/kedd/4ef9459f.lua</string>
+	<string>eis/e/wxp/w/qtm/pfvo/bfzsb/csoeq/4ef9459f.lua</string>
 	<key>ui/header_footer/lobby_footer.lua</key>
-	<string>itn/dc/ss/ouszb/ehth/vsb/i/d/stknk/kfyu/7982de79.lua</string>
+	<string>wlqhe/nagst/kwiys/igbr/gj/c/izdgz/skysz/npvwp/yvw/7982de79.lua</string>
 	<key>ui/header_footer/lobby_header.lua</key>
-	<string>ow/kug/c/ecxjw/l/540bf351.lua</string>
+	<string>bdeo/cfz/r/y/hfw/iqdhm/gy/540bf351.lua</string>
 	<key>ui/header_footer/theme_footer.lua</key>
-	<string>ln/gl/xtas/lg/lx/mz/wau/496b3f2d.lua</string>
+	<string>g/ydp/yby/ysj/df/pgorb/vyfk/qo/jx/e/496b3f2d.lua</string>
 	<key>ui/inspect/inspect_ad_pop.lua</key>
-	<string>mh/s/a/wkji/fi/uet/g/kgwoc/rbz/c574f279.lua</string>
+	<string>cubkq/kclq/mnyc/zop/r/c574f279.lua</string>
 	<key>ui/inspect/inspect_facebook_pop.lua</key>
-	<string>q/lngnh/ciqnn/ac/rzs/wh/psks/tz/191b6248.lua</string>
+	<string>oltpv/zpbdm/lj/o/dgcr/191b6248.lua</string>
 	<key>ui/lobby/lobby_gift_pop.lua</key>
-	<string>gteky/oupm/a/gc/d/c/tlqmy/97160c4f.lua</string>
+	<string>offzv/nliwc/va/htx/kvnd/zywsi/nmw/lk/97160c4f.lua</string>
 	<key>ui/lobby/lobby_theme.lua</key>
-	<string>x/qlmly/ed/lj/pfvf/qtv/aqqf/ra/2166c317.lua</string>
+	<string>ejqsx/wxudr/myt/xql/jg/2166c317.lua</string>
 	<key>ui/lobby/lobby_theme_lock.lua</key>
-	<string>wsxeu/fbe/eyfan/satno/a/bofh/i/x/cc5fa5f5.lua</string>
+	<string>ncrlv/whunx/pc/cft/v/v/cc5fa5f5.lua</string>
 	<key>ui/lobby/lobby_view.lua</key>
-	<string>sxlpv/m/qwm/i/kqipe/cxz/xoju/d6a98f04.lua</string>
+	<string>igjh/yfrx/cg/qnd/wpjl/d6a98f04.lua</string>
 	<key>ui/login/login_view.lua</key>
-	<string>cx/v/zf/zh/i/9046b21a.lua</string>
+	<string>xcq/hv/ntun/q/no/km/cr/bukl/inh/nvy/9046b21a.lua</string>
 	<key>ui/setting/setting_pop.lua</key>
-	<string>csf/nnnos/r/jsv/ytmqo/cmxs/bnvr/s/81cbbac2.lua</string>
+	<string>nwpdg/lsn/tbcqj/qzlze/tjero/cngm/q/81cbbac2.lua</string>
 	<key>ui/setting/setting_pop_v.lua</key>
-	<string>muqya/ks/lzkn/xftp/cqhf/j/yqni/ojyi/no/uzw/ebbef3d4.lua</string>
+	<string>azile/fxsdh/hmgs/zo/maz/wrci/bsiw/ys/ebbef3d4.lua</string>
 </dict>
 </plist>
