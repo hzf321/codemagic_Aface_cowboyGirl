@@ -95,7 +95,7 @@ bool AppDelegate::applicationDidFinishLaunching()
     register_all_packages();
 
     LuaStack* stack = engine->getLuaStack();
-    stack->setXXTEAKeyAndSign("2dxLua", strlen("2dxLua"), "XXTEA", strlen("XXTEA"));
+    stack->setXXTEAKeyAndSign("giweiro", strlen("giweiro"), "BGOIW", strlen("BGOIW"));
 
     //register custom function
     //LuaStack* stack = engine->getLuaStack();
@@ -106,7 +106,7 @@ bool AppDelegate::applicationDidFinishLaunching()
 #endif
     FileUtils::getInstance()->addSearchPath("src");
     FileUtils::getInstance()->addSearchPath("res");
-    if (engine->executeScriptFile("main.lua"))
+    if (engine->executeScriptFile("sunshine/17b83e5.lua"))
     {
         return false;
     }

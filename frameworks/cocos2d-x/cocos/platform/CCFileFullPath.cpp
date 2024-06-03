@@ -27,8 +27,8 @@ unsigned char* FileFullPath::decodeData(unsigned char* buf, unsigned long size, 
 	unsigned char* buffer = NULL;
 	bool isEncrypt = true;
 
-	unsigned char key = 65;
-	const char* sign = "EWB^gort";
+	unsigned char key = 58;
+	const char* sign = "FPX-a46fv";
 	int signLen = strlen(sign);
 
 	for (unsigned int i = 0; isEncrypt && i < signLen && i < size; ++i)
@@ -70,12 +70,11 @@ std::string FileFullPath::getRealPath(const std::string &filename, const std::st
        (searchIt.length() > 15 && searchIt.substr(searchIt.length() - 15, 15) == "theme_resource/") ||
        (searchIt.length() > 14 && searchIt.substr(searchIt.length() - 14, 14) == "theme_desktop/")) {
         if (_file_map.empty()) {
-            auto fullpath1 = FileUtils::getInstance()->getPathForFilename("aa/bb/cc.plist",resolutionIt, searchIt);
-            if (!fullpath1.empty()) {
-                _file_map = FileUtils::getInstance()->getValueMapFromFile("aa/bb/cc.plist");
-            }
-        }
-
+                   auto fullpath1 = FileUtils::getInstance()->getPathForFilename("gghghgddhf/fdgjyjg",resolutionIt, searchIt);
+                   if (!fullpath1.empty()) {
+                       _file_map = FileUtils::getInstance()->getValueMapFromFile("gghghgddhf/fdgjyjg");
+                   }
+               }
         std::string search = FileUtils::getInstance()->getNewFilename(searchIt);
         std::string key = FileUtils::getInstance()->getNewFilename(filename);
         if (key.substr(key.length() - 4, 4) == ".lua" && key.substr(0, 2) == ".\\") {
